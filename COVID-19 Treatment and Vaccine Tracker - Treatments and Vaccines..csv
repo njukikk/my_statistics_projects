@@ -1,0 +1,1102 @@
+NOTES:,Hidden,,We need to think about streamlining these so that they're consistently headline or sentence capsed,,,,,,,,,,,,
+,,,,"0
+Best Practices 
+- Expand the formula bar so that you don't miss the additional info found in some of the cells. Reference the image to the right for more help.
+- Use filters to explore and organize the information for your own use. When accessing through this view-only link, filters are temporary to that search/find. 
+- This document is also available for download under the File tab.
+- To find the latest additions or updates to the tracker, command+F or control+F and search for an asterisk. All cells with new information have an added  at the end.
+",,,,,,,"Last Update: May 12, 2020 | 3:00 pm ET
+© 2020 Milken Institute00
+2020",,,,
+,Number,Treatment vs. Vaccine,Product Category,Product Description,Stage of Development ,Anticipated Next Steps,Clinical Trials for COVID-19,Developer / Researcher ,Funder,Published Results,"Clinical Trials for Other Diseases 
+(T only)
+
+Related Use / 
+Platform 
+(V Only)",FDA-Approved Indications,Sources,Date Last Updated,
+,1,Treatment,Antibodies,"Polyclonal hyperimmune globulin (H-IG), unbranded",Pre-clinical,Phase 1 trials start in summer 2020. To patients between December 2020 and December 2021,,"CoVIg-19 Plasma Alliance (Takeda, CSL Behring, Biotest AG, Bio Products Laboratory, LFB, and Octapharma, ADMA Biologics, BioPharma Plasma, GC Pharma, Sanquin)/ National Institute of Allergy and Infectious Disease (NIAID)/ Microsoft (CoVIg-19 PlasmaBot)",,,,N/A,Sources,5/10/2020,
+,2,Treatment,Antibodies,"Antibodies from mice, REGN3048-3051, against the spike protein",Pre-clinical,Start Phase 1 June 2020,,Regeneron,Biomedical Advanced Research and Development Authority (BARDA),,,N/A,Sources,Prior to 4/20/2020,
+,3,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,Start Phase 1 in July 2020,,Celltrion,,,,N/A,Sources,4/23/2020,
+,4,Treatment,Antibodies,Super-antibody or antibody cocktail to target potential mutations of SARS-CoV-2,Pre-clinical,,,Celltrion,,,,N/A,Sources,Prior to 4/20/2020,
+,5,Treatment,Antibodies,COVI-SHIELD antibody cocktail that binds to three different epitopes,Pre-clinical,"Start Phase 1 3Q 2020
+",,"Sorrento Therapeutics/ Mount Sinai Health System
+",,,,N/A,Sources,5/10/2020,
+,7,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Kamada/ Kedrion Biopharma,,,,N/A,Sources,5/4/2020,
+,8,Treatment,Antibodies,"VIR-7831 and VIR-7832, antibodies from recovered SARS patients",Pre-clinical,Start Phase 2 ~ July-September 2020,,Vir Biotechnology/GSK/ Samsung/WuXi Biologics/Biogen,,,,N/A,Sources,4/29/2020,
+,9,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,Start Phase 1 in late July 2020,,Eli Lilly/Ab-Cellera (NIH Vaccines Research Center),Defense Advanced Research Projects Agency/ Government of Canada (ISED Strategic Innovation Fund),,,N/A,Sources,5/5/2020,
+,10,Treatment,Antibodies,"COVID-19 Immunoglobulin, plasma derived
+",Pre-clinical,,,"CSL Behring Australia
+",,,,N/A,Sources,5/10/2020,
+,,Treatment,Antibodies,"Avastin (bevacizumab), vascular endothelial growth factor inhibitor",Clinical,Phase 2/3 studies recruiting April 2020,"NCT04275414
+
+NCT04305106
+
+NCT04344782
+
+",Numerous trials with Chinese research sponsors; Roche,,,,"FDA-approved since 2004, approved to treat certain types of cancer",Sources,4/27/2020,
+,11,Treatment,Antibodies,PD-1 blocking antibody; Thymosin,Clinical,"Phase 2 study not yet recruiting
+","NCT04268537        
+
+ChiCTR2000030028 ",Numerous trials with Chinese research sponsors,,,,Unknown,Sources,4/27/2020,
+,12,Treatment,Antibodies,"Opdivo (nivolumab), PD-1 blocking antibody",Clinical,"Phase 2 study not yet recruiting
+","NCT04356508
+
+NCT04333914 ",University of Hong Kong (BMS),,,,"FDA-approved since 2014, approved to treat melanoma and squamous non-small cell lung cancer",Sources,4/27/2020,
+,13,Treatment,Antibodies,"leronlimab (PRO 140), a CCR5 antagonist",Clinical / Compassionate Use,Phase 2 trial started in April 2020; Phase 2b/3 trial starts April 2020,"NCT04343651      
+
+NCT04347239",CytoDyn,,CytoDyn,"Treatment of HIV/AIDS, Graft versus Host Disease, Non-Alcoholic Steatohepatitis, and numerous cancers",N/A,Sources,Prior to 4/20/2020,
+,14,Treatment,Antibodies,"AiRuiKa (camrelizumab), anti-programmed cell death protein (PD-1) antibody",Clinical,"No trial updates since February 2020
+",ChiCTR2000029806,Wuhan Jinyintan Hospital,,,Treatment of certain cancers,N/A,Sources,4/27/2020,
+,15,Treatment,Antibodies,"Kevzara (sarilumab), interleukin-6 receptor antagonist",Clinical,"Started phase 2/3 in March 2020; preliminary Phase 2 results released April 27, 2020, trial continuing for only critical patients, Phase 3 (US) results expected June 2020, Phase 3 (ex-US) results expected 3Q 2020","NCT04315298        
+
+NCT04321993 
+
+NCT04341870 
+
+NCT04324073 
+
+NCT04327388 
+
+NCT04322773 
+
+NCT04345289 
+
+NCT02735707
+
+NCT04357808
+
+NCT04357860
+
+NCT04359901
+
+",Sanofi/Regeneron; Feinstein Institutes; REMAP-CAP global trial,Biomedical Advanced Research and Development Authority (BARDA),"ChinaXiv (http://www.chinaxiv.org/abs/202003.00026)
+
+medRxiv (https://doi.org/10.1101/2020.04.23.20076612)
+
+Regeneron (https://newsroom.regeneron.com/index.php/news-releases/news-release-details/regeneron-and-sanofi-provide-update-us-phase-23-adaptive)",,"FDA-approved since 2017, approved to treat rheumatoid
+ arthritis",Sources,4/30/2020,
+,16,Treatment,Antibodies,"Actemra (tocilizumab), interleukin-6 receptor antagonist",Clinical,"Roche studies could be completed May or June 2020; Phase 2 open label study in Italy active (April 2020), Phase 3 studies recruiting April 2020, some results from open label study in France released April 2020","NCT04317092    
+
+NCT04320615   
+
+NCT04310228        
+
+ChiCTR2000030894
+
+NCT04306705 
+
+ChiCTR2000030442 
+
+ChiCTR2000029765 
+
+NCT04322773
+
+NCT04345445
+
+NCT04331795
+
+NCT04332094
+
+NCT04346355
+
+NCT04359667
+
+NCT04332913
+
+NCT04335071
+
+NCT04356937
+
+NCT04361032
+
+NCT04315480
+
+NCT04339712
+
+NCT04333914
+
+NCT04361552
+
+NCT04330638
+
+NCT04331808
+
+NCT02735707
+
+NCT04349410 ",Numerous trials with global research sponsors; Roche,Biomedical Advanced Research and Development Authority (BARDA),"ChinaXiv (http://www.chinaxiv.org/abs/202003.00026)
+
+medRxiv (https://doi.org/10.1101/2020.04.20.20061861)
+
+medRxiv (https://doi.org/10.1101/2020.04.23.20076612)
+
+Assistance Publique Hopitaux De Paris (https://www.aphp.fr/contenu/le-tocilizumab-ameliore-significativement-le-pronostic-des-patients-avec-pneumonie-covid)
+
+PNAS (https://www.pnas.org/content/early/2020/04/27/2005615117#T1)
+
+medRxiv (https://doi.org/10.1101/2020.05.01.20078360)",,"FDA-approved since 2010, approved to treat various type of arthritis, including rheumatoid arthritis, and cytokine release syndrome",Sources,5/10/2020,
+,17,Treatment,Antibodies,"Gimsilumab, anti-granulocyte-macrophage colony stimulating factor monoclonal",Clinical,Phase 2 study started in April 2020,NCT04351243,Roivant Sciences,,,,N/A,Sources,4/27/2020,
+,18,Treatment,Antibodies,"TJM2 (TJ003234), anti-granulocyte-macrophage colony stimulating factor antibody",Clinical,"Phase 1/2 recruiting April 2020
+",NCT04341116,I-Mab Biopharma,,,,N/A,Sources,4/27/2020,
+,19,Treatment,Antibodies,"lenzilumab, anti-granulocyte-macrophage colony stimulating factor antibody",Clinical / Compassionate Use,"Phase 3 not yet recruiting April 2020
+",NCT04351152,Humanigen Inc.,,,Prevent cytokine storm with CAR-T cancer therapy; prevention/treatment of acute graft versus host disease; chronic myelomonocytic leukemia; eosinophilic asthma,N/A,Sources,4/27/2020,
+,20,Treatment,Antibodies,"Sylvant (siltuximab), interleukin-6 targeted monoclonal",Clinical / Compassionate Use,"Compassionate use data shared April 2020; Phase 3 recruiting April 2020
+","NCT04322188
+
+NCT04330638
+
+NCT04329650","EUSA Pharma/The Papa Giovanni XXII Hospital; University Hospital, Ghent; Fundacion Clinic per a la Recerca Biomédica",,"EUSA Pharma (https://www.eusapharma.com/news/interim-analysis-data-for-siltuximab-treated-covid-19-patients-from-the-sisco-study/)       
+
+medRxiv (https://doi.org/10.1101/2020.04.01.20048561)
+
+medRxiv (https://doi.org/10.1101/2020.04.23.20076612)",,"FDA-approved since 2014, approved to treat multicentric Castleman disease",Sources,4/28/2020,
+,21,Treatment,Antibodies,"Soliris (eculizumab), complement inhibitor",Clinical/ Expanded access,Phase 2 recruiting May 2020,"NCT04288713
+
+NCT04346797
+
+NCT04355494 ",Assistance Publique - Hopitaux de Paris (Phase 2); Alexion (Expanded Access),,,,"FDA-approved since 2007, approved to treat Paroxysmal Nocturnal Hemoglobinuria, Atypical Hemolytic Uremic Syndrome, Generalized Myasthenia Gravis, and Neuromyelitis Optica Spectrum Disorder",Sources,5/5/2020,
+,22,Treatment,Antibodies,"Ilaris (canakinumab), interleukin-1beta blocker",Clinical,Novartis Phase 3 to start and trial top-line results expected late summer 2020,"NCT04348448
+
+NCT04362813
+
+NCT04365153","Novartis; other research sponsors
+",,,,"FDA-approved since 2009, approved to treat periodic fever syndromes and systemic juvenile idiopathic arthritis",Sources,4/30/2020,
+,23,Treatment,Antibodies,"Gamifant (emapalumab), anti-interferon gamma antibody",Clinical,"Phase 2/3 recruiting April 2020
+",NCT04324021,Swedish Orphan Biovitrum,,,,"FDA-approved since 2018, approved to treat primary hemophagocytic lymphohistiocytosis",Sources,4/27/2020,
+,24,Treatment,Antibodies,"meplazumab, anti-CD147 antibody",Clinical,"Phase 1/2 recruiting April 2020
+",NCT04275245,Tang-Du Hospital,,medRxiv (https://doi.org/10.1101/2020.03.21.20040691),,N/A,Sources,4/27/2020,
+,25,Treatment,Antibodies,"LY3127804, anti-Angiopoietin 2 (Ang2) antibody",Clinical,Phase 2 to start in April 2020,,Eli Lilly,,,,N/A,Sources,Prior to 4/20/2020,
+,27,Treatment,Antibodies,"Ultomiris (ravulizumab-cwvz), complement inhibitor",Clinical,Phase 3 to start in May 2020,NCT04369469,Alexion Pharmaceuticals,,,,"FDA-approved since 2018, aprpoved to treat paroxysmal nocturnal hemoglobinuria and atypical hemolytic uremic syndrome",Sources,5/5/2020,
+,28,Treatment,Antibodies,"IFX-1, anti-C5a antibody",Clinical,"Phase 2/3 recruiting in April 2020
+",NCT04333420,InflaRx N.V.,,,"To treat various inflammatory conditions including hidradenitis suppurativa, ANCA-associated vasculitis, and pyoderma gangraenosum",N/A,Sources,4/27/2020,
+,29,Treatment,Antibodies,"otilimab, anti-granulocyte macrophase colony-stimulating factor (GM-CSF) antibody
+",Clinical,"Phase 2 to start end of May 2020
+",NCT04376684,GSK,,,"To treat rheumatoid arthritis
+",N/A,Sources,5/8/2020,
+,30,Treatment,Antibodies,Monoclonal antibody cocktail,Pre-clinical,,,ImmunoPrecise Antibodies,,,,N/A,Sources,4/23/2020,
+,31,Treatment,Antibodies,Antibody,Pre-clinical,,,"Harbour BioMed/ Erasmus MC/ Utrecht University/ Mount Sinai Health System
+",,,,N/A,Sources,5/10/2020,
+,32,Treatment,Antibodies,"Antibodies targeting the S protein from convalescent serum, humanized mice, and phage display",Pre-clinical,Phase 1 trials begin in summer 2020,,AstraZeneca/ US Army Medical Research Institute of Infectious Diseases (USAMRIID)/ University of Maryland School of Medicine,,,,N/A,Sources,Prior to 4/20/2020,
+,33,Treatment,Antibodies,Antibody,Pre-clinical,,,Distributed Bio,,,,N/A,Sources,5/10/2020,
+,34,Treatment,Antibodies,Antibodies,Pre-clinical,,,"Chelsea and Westminster Hospital, Imperial College London",UK Government,,,N/A,Sources,5/10/2020,
+,35,Treatment,Antibodies,Antibody,Pre-clinical,Phase 1 trial begins in summer 2020,,"Vanderbilt Vaccine Center/ AstraZeneca/ IDBiologics
+",Defense Advanced Research Projects Agency/ Dolly Parton,,,N/A,Sources,5/10/2020,
+,36,Treatment,Antibodies,Antibodies,Pre-clinical,,,Medicago/ Laval University's Infectious Disease Research Centre,Canadian Institutes for Health Research (CIHR),,,N/A,Sources,Prior to 4/20/2020,
+,37,Treatment,Antibodies,Antibodies,Pre-clinical,,,FairJourney Biologics/ Iontas,,,,N/A,Sources,4/21/2020,
+,38,Treatment,Antibodies,Antibodies (OmniChicken platform),Pre-clinical,,,Ligand Pharmaceuticals,,,,N/A,Sources,4/23/2020,
+,39,Treatment,Antibodies,Antibodies (OmniRat platform),Pre-clinical,,,Ligand Pharmaceuticals,,,,N/A,Sources,4/23/2020,
+,40,Treatment,Antibodies,"Monocloncal antibodies, TLR4 antagonist",Pre-clinical,,,Edesa Biotech/ Light Chain Bioscience (NovImmune),,,,N/A,Sources,4/23/2020,
+,41,Treatment,Antibodies,"Monocloncal antibodies, CXC10 antagonist",Pre-clinical,,,Edesa Biotech/ Light Chain Bioscience (NovImmune),,,,N/A,Sources,4/23/2020,
+,42,Treatment,Antibodies,Polyclonal hyperimmune globulin (H-IG),Pre-clinical,Phase 2 trials begin ~ August 2020,,Emergent BioSolutions/ National Institute of Allergy and Infectious Diseases (NIAID),Biomedical Advanced Research and Development Authority (BARDA),,Same human hyperimmune platform as FDA-approved anthrax treatment (Anthrasil) and smallpox vaccine complications (VIGIV) were developed,N/A,Sources,Prior to 4/20/2020,
+,43,Treatment,Antibodies,Horse plasma product (COVID-EIG),Pre-clinical,Phase 2 trials begin ~ August 2020,,Emergent BioSolutions,,,Same equine hyperimmune platform as FDA-approved botulism anti-toxin (BAT) is produced,N/A,Sources,Prior to 4/20/2020,
+,44,Treatment,Antibodies,Convalescent plasma (blood plasma from recovered patients),Clinical / Expanded Access,"Phase 2 and Phase 3 trials not yet recruiting as of April 2020
+","Many expanded access, observational, patient registry, plasma collection, prevention, and other studies listed in clincialtrials.gov, including:
+
+NCT04321421   
+
+NCT04292340    
+
+NCT04316728 
+
+NCT04338360
+
+NCT04345289
+
+NCT04349410
+
+NCT04346589
+
+NCT04333251
+
+NCT04361253
+
+NCT04323800
+
+NCT04359810
+
+NCT04362176
+
+NCT04354831
+
+NCT04360486 
+
+","Multiple global research sponsors, including New York State Department of Health, Johns Hopkins University, the Feinstein Institutes",Bloomberg Philantropies and the State of Maryland (to Johns Hopkins University)/ Biomedical Advanced Research and Development Authority (BARDA) (to Mayo Clinic),"medRxiv (https://doi.org/10.1101/2020.03.16.20036145)        
+
+JAMA (https://jamanetwork.com/journals/jama/fullarticle/2763983)       
+
+medRxiv (https://doi.org/10.1101/2020.04.07.20056440)       
+
+JAMA Network (https://jamanetwork.com/journals/jama/fullarticle/2763982)",,N/A,Sources,5/8/2020,
+,45,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,Phase 1 trial begins Q3 2020,,Tsinghua University / Third People's Hospital of Shenzhen / Brii Biosciences,,,,N/A,Sources,Prior to 4/20/2020,
+,46,Treatment,Antibodies,Polyclonal hyperimmune globulin (H-IG),Pre-clinical,,,Grifols,Biomedical Advanced Research and Development Authority (BARDA),,,N/A,Sources,Prior to 4/20/2020,
+,47,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Grifols,Biomedical Advanced Research and Development Authority (BARDA),,,N/A,Sources,Prior to 4/20/2020,
+,48,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Amgen / Adaptive Biotechnologies,,,,N/A,Sources,Prior to 4/20/2020,
+,,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Innovent Biologics,,,,N/A,Sources,Prior to 4/20/2020,
+,49,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Xbiotech / BioBridge Global,,,,N/A,Sources,Prior to 4/20/2020,
+,50,Treatment,Antibodies,Antibodies from recovered COVID-19 patients,Pre-clinical,,,Costa Rican Social Security Fund (CCSS)/ The University of Costa Rica (UCR)/ Clodomiro Picado Institute,,,,N/A,Sources,Prior to 4/20/2020,
+,51,Treatment,Antibodies,"Novel IgM and IgA antibodies 
+",Pre-clinical,,,"Atreca/ BeiGene/ IGM Biosciences
+",,,,N/A,Sources,5/4/2020,
+,52,Treatment,Antibodies,"SAB-185, Polyclonal hyperimmune globulin (H-IG)",Pre-clinical,Phase 1 starts early summer 2020,,CSL Behring/ SAb Biotherapeutics,Biomedical Advanced Research and Development Authority (BARDA)/ US Department of Defense,,,N/A,Sources,4/30/2020,
+,53,Treatment,Antibodies,Non-viral gene therapy to produce monoclonal antibodies,Pre-clinical,,,Generation Bio / Vir Biotechnology,,,,N/A,Sources,Prior to 4/20/2020,
+,54,Treatment,Antibodies,"rCIG (recombinant anti-coronavirus 19 hyperimmune gammaglobulin), polyclonal antibodies",Pre-clinical,,,GigaGen,,,,N//A,Sources,Prior to 4/20/2020,
+,56,Treatment,Antibodies,"IC14, recombinant chimeric anti-CD14 monoclonal antibody",Expanded access,,NCT04346277,Implicit Bioscience,,,Acute Respiratory Distress Syndrome,N/A,Sources,Prior to 4/20/2020,
+,,Treatment,Antibodies,"MEDI3506, monoclonal antibody targeting interleukin 33",Clinical,ACCORD Phase 2 trial to start May 2020,,AstraZeneca; ACCORD trial ,UK Government (ACCORD study),,Chronic Obstructive Pulmonary Diesase,N/A,Sources,5/10/2020,
+,55,Treatment,Antibodies,Octagam; intravenous Immunoglobulin (IVIG),Clinical,"Phase 2/3 studies not yet recruiting 
+","NCT04261426
+
+NCT04264858
+
+NCT04350580",Multiple global research sponsors; Octapharma USA/ Sharp Memorial Hospital,,Open Forum Infectious Diseases (https://academic.oup.com/ofid/article/7/3/ofaa102/5810740),,"FDA-approved since 2014, approved to treat chronic immune thrombocytopenic purpura (ITP)",Sources,5/7/2020,
+,56,Treatment,Antibodies,Purified ovine immunoglobulin from immunized sheep,Pre-clinical,,,Public Health England (Stuart Dowall),UK Government,,,N/A,Sources,4/23/2020,
+,57,Treatment,Antibodies,Antibodies,Pre-clinical,,,"Ablexis/ AlivaMab Discovery Services/ Berkeley Lights Collaborate
+",,,,"N/A
+",Sources,4/28/2020,
+,58,Treatment,Antibodies,"JS016 antibody candidate
+",Pre-clinical,Phase 1 to start 2Q 2020,,Junshi Biosciences/ Eli Lilly,,,,N/A,Sources,5/5/2020,
+,59,Treatment,Antibodies,Linked nanobody antibody,Pre-clinical,,,University of Texas at Austin/ US National Institutes of Health/ Ghent University,,,,N/A,Sources,5/1/2020,
+,60,Treatment,Antivirals,"Favilavir/Favipiravir/T-705/Avigan, licensed in Japan to treat influenza",Clinical,Phase 3 trial in Japan started in March 2020; Phase 2 trial in US started April 2020,"NCT04303299
+
+NCT04310228
+
+ChiCTR2000029548
+
+ChiCTR2000029496
+
+ChiCTR2000029544         
+
+ChiCTR2000030254
+
+NCT04336904
+
+NCT04333589
+
+NCT04345419","Fujifilm Toyama Chemical/Zhejiang Hisun Pharmaceuticals/numerous trials with global research sponsors/ Brigham and Women's Hospital, Massachusetts General Hospital, and the University of Massachusetts Medical School/ Glenmark Pharmaceuticals",,"medRxiv (https://doi.org/10.1101/2020.03.17.20037432)
+
+medRxiv (https://doi.org/10.1101/2020.04.21.20066761)",,N/A,Sources,5/1/2020,
+,61,Treatment,Antivirals,"Kaletra/Aluvia (lopinavir/ritonavir), HIV-1 protease inhibitor",Clinical,RECOVERY trial results expected by June 2020,"NCT04303299
+
+NCT04255017
+
+ChiCTR2000029548
+
+ChiCTR2000029539
+
+EudraCT 2020-000936-23
+
+NCT04307693
+
+NCT04315948
+
+NCT04252885
+
+NCT04276688
+
+NCT02735707
+
+NCT04321993
+
+2020-001113-21
+
+NCT04286503
+
+NCT04328012
+
+NCT04346147",Global hospital testing (AbbVie); World Health Organization SOLIDARITY trial (studying lopinavir/ ritonavir with and without interferon beta); University of Oxford RECOVERY trial; REMAP-CAP global trial,UK Government (University of Oxford RECOVERY trial),"NEJM (https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001282?articleTools=true)
+
+medRxiv (https://doi.org/10.1101/2020.03.19.20038984)
+
+Chinese Journal of Infectious Diseases (http://rs.yiigle.com/yufabiao/1182592.htm)
+
+medRxiv (https://doi.org/10.1101/2020.03.28.20045955)
+
+medRxiv (https://doi.org/10.1101/2020.04.08.20057539)
+
+medRxiv (https://doi.org/10.1101/2020.04.21.20066761)
+
+medRxiv (https://doi.org/10.1101/2020.04.25.20079079)
+
+medRxiv (https://doi.org/10.1101/2020.04.24.20077735)",,"FDA-approved since 2000, approved to treat HIV-1 infection",Sources,5/12/2020,
+,62,Treatment,Antivirals,"remdesivir, nucleotide analog","Clinical / Expanded Access / FDA issued an Emergency Use Authorization on May 1, 2020","Gilead Phase 3 trial topline results released April 2020 (severe disease) and expected May 2020 (moderate disease); NIAID trial preliminary data released April 2020, full results expected in May 2020","NCT04257656
+
+NCT04252664
+
+NCT04292730
+
+NCT04292899
+
+NCT04280705
+
+EudraCT 2020-000936-23
+
+NCT04315948
+
+NCT04302766
+
+NCT04323761
+
+NCT04349410",Gilead; World Health Organization SOLIDARITY trial; National Institute of Allergy and Infectious Disease (NIAID)'s Adaptive COVID-19 Treatment Trial; Feinstein Institutes,,"NEJM (https://www.nejm.org/doi/full/10.1056/NEJMoa2007016)
+        
+NEJM (https://www.nejm.org/doi/full/10.1056/NEJMoa2001191)
+        
+Stat News (https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/)
+
+Reuters (https://www.reuters.com/article/us-health-coronavirus-gilead-sciences/gilead-disputes-report-that-coronavirus-drug-trial-flopped-idUSKCN225326)
+
+Stat (https://www.statnews.com/2020/04/23/data-on-gileads-remdesivir-released-by-accident-show-no-benefit-for-coronavirus-patients/)
+
+medRxiv (https://doi.org/10.1101/2020.04.21.20066761)
+
+Gilead (https://www.businesswire.com/news/home/20200429005424/en/Gilead-Announces-Results-Phase-3-Trial-Investigational)
+
+NIAID (https://www.niaid.nih.gov/news-events/nih-clinical-trial-shows-remdesivir-accelerates-recovery-advanced-covid-19?utm_campaign=+42538088&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=)
+
+Lancet (https://doi.org/10.1016/S0140-6736(20)31022-9)
+
+medRxiv (https://doi.org/10.1101/2020.05.02.20088559)",Treatment of Ebola,N/A,Sources,5/10/2020,
+,63,Treatment,Antivirals,"Prezcobix (darunavir, HIV-1 protease inhibitor/cobicistat, CYP3A inhibitor)",Clinical,"Phase 3 trials recruiting May 2020
+","ChiCTR2000029541 
+
+NCT04252274
+
+NCT04303299
+
+NCT04304053","Multiple global research sponsors
+",,,,"FDA-approved since 2015, approved to treat HIV-1 infection",Sources,5/7/2020,
+,64,Treatment,Antivirals,galidesivir,Clinical,"Phase 1b recruiting May 2020
+",NCT03891420,BioCryst Pharmaceuticals,National Institute of Allergy and Infectious Diseases (NIAID),,Treatment of yellow fever,N/A,Sources,5/7/2020,
+,65,Treatment,Antivirals,"Ganovo (danoprevir), hepatitis C virus NS3 protease inhibitor; ritonavir; interferon, approved in China to treat Hepatitis C",Clinical,Small open label trial completed and results released in March 2020; Larger open label trial recruiting May 2020,"NCT04291729
+
+NCT04345276",Ascletis/Chinese research sponsors,,medRxiv (https://doi.org/10.1101/2020.03.22.20034041),"Treatment of Hepatitis C
+",N/A,Sources,5/7/2020,
+,66,Treatment,Antivirals,"ASC09, HIV protease inhibitor",Clinical,"Phase 3 trial recruiting May 2020
+","NCT04261907
+
+NCT04261270","Ascletis/Chinese research sponsors
+",,,Treatment of HIV/AIDS,N/A,Sources,5/7/2020,
+,67,Treatment,Antivirals,"Truvada (emtricitabine and tenofovir, both HIV-1 nucleoside analog reverse transcriptase inhibitors)",Clinical,"Phase 3 trial recruiting May 2020
+","ChiCTR2000029468
+
+NCT04334928","Plan Nacional sobre el Sida
+",,,,"FDA-approved since 2004, approved to treat and prevent HIV-1 infection",Sources,5/7/2020,
+,68,Treatment,Antivirals,"Arbidol (umifenovir), licensed in Russia and China for treatment of respiratory viral infections",Clinical,Phase 4 trials recruiting May 2020,"NCT04252885
+
+NCT04350684 
+
+NCT04286503
+
+NCT04260594
+
+NCT04273763","Multiple global research sponsors
+",,"medRxiv (https://doi.org/10.1101/2020.03.19.20038984)       
+
+Chinese Journal of Infectious Diseases (http://rs.yiigle.com/yufabiao/1182592.htm)     
+
+medRxiv (https://doi.org/10.1101/2020.03.17.20037432)       
+
+medRxiv (https://doi.org/10.1101/2020.03.28.20045955)       
+
+medRxiv (https://doi.org/10.1101/2020.04.08.20057539)        
+
+medRxiv (https://doi.org/10.1101/2020.04.06.20042580)       
+
+medRxiv (https://doi.org/10.1101/2020.04.11.20056523)
+
+medRxiv (https://doi.org/10.1101/2020.04.25.20079079)",,N/A,Sources,5/7/2020,
+,69,Treatment,Antivirals,"Vicromax, broad spectrum antiviral",Pre-clinical,,,ViralClear Pharmaceuticals,,,,,Sources,Prior to 4/20/2020,
+,70,Treatment,Antivirals,ISR-50,Pre-clinical,,,ISR Immune System Regulation,,,,N/A,Sources,Prior to 4/20/2020,
+,71,Treatment,Antivirals,"Tamiflu (oseltamivir), neuraminidase inhibitor",Clinical,"REMAP-CAP trial recruiting May 2020
+","NCT04303299
+
+NCT04255017        
+
+NCT04261270
+
+NCT02735707
+
+NCT04338698
+
+NCT04371601",Roche; REMAP-CAP global trial,,"medRxiv (https://doi.org/10.1101/2020.03.28.20045955)       
+
+medRxiv (https://doi.org/10.1101/2020.04.11.20056523)",,"FDA-approved since 1999, approved to treat and prevent influenza",Sources,5/7/2020,
+,72,Treatment,Antivirals,antiviral Fc conjugates,Pre-clinical,,,Cidara Therapeutics,,,,N/A,Sources,Prior to 4/20/2020,
+,73,Treatment,Antivirals,Antiviral compounds,Pre-clinical,,,Cocrystal Pharma,,,,N/A,Sources,Prior to 4/20/2020,
+,74,Treatment,Antivirals,"EIDD-2801, oral ribonucleoside analog",Clinical,Phase 1 started April 2020,,Ridgeback Biotherapeutics / Drug Innovation Ventures at Emory (DRIVE),,,,N/A,Sources,Prior to 4/20/2020,
+,75,Treatment,Antivirals,Virazole (ribavirin for inhalation solution),Clinical / Compassionate Use,Phase 1 recruiting May 2020,NCT04356677,Bausch Health,,,,"FDA-approved since 1985, approved to treat lower respiratory tract infections due to RSV",Sources,5/7/2020,
+,76,Treatment,Antivirals,Antiviral drug combinations,Pre-clinical,,,"SCORE consortium (universities of Aix-Marseille, Leuven, Utrecht, Bern, and Lubeck), the Helmholtz Centre for Infection Research, and Janssen Pharmaceutica NV",EU Commission (Horizon 2020 Program),,,Unknown,Sources,Prior to 4/20/2020,
+,77,Treatment,Antivirals,Levovir (clevudine),Clinical,"Phase 2 trial not yet recruiting
+",NCT04347915,Bukwang Pharm,,,,,Sources,5/7/2020,
+,78,Treatment,Antivirals,AB001,Pre-clinical,Phase 1 to start in 2020,,Agastiya Biotech,,,,N/A,Sources,4/24/2020,
+,79,Treatment,Antivirals,"BTL-tml
+",Clinical,"Has been used in 36 patients anecdotally",,"Beech Tree Labs
+",,,"Treatment of herpes virus infections
+",N/A,Sources,5/5/2020,
+,80,Treatment,Antivirals,"DAS181, recombinant sialidase (nebulized)
+",Compassionate Use/ Clinical,"Compassionate use finding released in May 2020; Phase 2/3 started enrolling in May 2020
+","NCT03808922
+
+NCT04354389
+
+NCT04298060
+
+NCT04324489","Ansun Biopharma/ Renmin Hospital of Wuhan University 
+",,PR Newswire (https://www.prnewswire.com/news-releases/ansun-biopharma-announces-positive-results-from-investigator-initiated-trial-of-novel-covid-19-treatment-301033871.html),Treatment of lower respiratory tract parainfluenza virus infections and severe influenza infections,N/A,Sources,5/5/2020,
+,81,Treatment,Cell-based therapies,"PLX cell product, placenta-based cell therapy","Clinical/ Compassionate Use 
+","Results from compassionate use released in April 2020
+",,Pluristem Therapeutics/BIH Center for Regenerative Therapy/Berlin Center for Advanced Therapies,,Pluristem Therapeutics (https://www.pluristem.com/wp-content/uploads/2020/04/PSTI-PR-Follow-up-on-Covid-19-treatments-FINAL-FOR-RELEASE.pdf),"Various conditions
+",N/A,Sources,5/8/2020,
+,82,Treatment,Cell-based therapies,Mesenchymal stem cells,Clinical,Phase 1 trials ongoing May 2020; Phase 1/2 trials recruiting May 2020; Phase 2/3 trial recruiting May 2020,"30 trials listed in clinicaltrials.gov
+
+ChiCTR2000029990
+
+NCT04315987
+
+NCT04302519
+
+NCT04288102
+
+NCT04313322
+
+NCT04273646
+
+NCT04371601
+
+NCT04315987
+
+NCT04252118
+
+NCT04336254
+
+NCT04339660
+
+NCT04371601
+
+NCT04366063",Numerous trials with global research sponsors,,"Aging and Disease (http://www.aginganddisease.org/article/0000/2152-5250/ad-0-0-216.shtml)       
+
+ChinaXiv (http://chinaxiv.org/abs/202002.00084)",,N/A,Sources,5/8/2020,
+,83,Treatment,Cell-based therapies,Autologous Adipose-Tissue Derived Mesenchymal Stem Cells (ADMSCs),Expanded access,,,Celltex,,,"Injuries, Pain, and Autoimmune, Vascular and Other Disease, including Inflammatory lung conditions, pneumonia, and chronic obstructive pulmonary disease (COPD)",N/A,Sources,5/8/2020,
+,84,Treatment,Cell-based therapies,"Ryoncil (remestemcel-L), allogenic mesenchymal stem cells",Clinical/ Compassionate Use/ Expanded Access,"Compassionate use data shared April 2020; Phase 3 trial recruiting May 2020  
+","NCT04366830
+
+NCT04371393",Mesoblast/ Cardiothoracic Surgical Trials Network,,Mesoblast (http://investorsmedia.mesoblast.com/static-files/337e723a-340d-493e-a4a1-0971d2c71460),"Graft versus host disease and other rare diseases, chronic obstructive pulmonary disease",N/A,Sources,5/7/2020,
+,85,Treatment,Cell-based therapies,"MultiStem, bone marrow stem cells",Clinical,"Phase 2/3 trial recruiting May 2020
+",NCT04367077,Athersys / The University of Texas Health Science Center at Houston,Medical Technology Enterprise Consortium (MTEC),,Acute Respiratory Distress Syndrome; Stroke,,Sources,5/10/2020,
+,86,Treatment,Cell-based therapies,Allogeneic T-cell therapies,Pre-clinical,,,AlloVir/Baylor College of Medicine,,,,N/A,Sources,Prior to 4/20/2020,
+,87,Treatment,Cell-based therapies,Natural killer cell-based therapy,Pre-clinical,Begin Phase 1 by end of 2020,,GC LabCell / KLEO Pharmaceuticals,,,,N/A,Sources,Prior to 4/20/2020,
+,88,Treatment,Cell-based therapies,"CYNK-001, allogeneic, natural killer cell therapy",Clinical,"Phase 1/2 study not yet recruiting May 2020
+",NCT04365101,Celularity/ Lung Biotechnology PBC,,,Various hematologic cancers and solid tumors,N/A,Sources,5/7/2020,
+,89,Treatment,Cell-based therapies,"CAP-1002, allogenic cardiosphere-derived cells",Expanded access,"Expanded access trial ongoing May 2020
+",NCT04338347,Capricor Inc.,,,Duchenne muscular dystrophy,N/A,Sources,5/7/2020,
+,90,Treatment,Cell-based therapies,"haNK, natural killer cells",Pre-clinical,,,ImmunityBio / NantKwest,,,,N/A,Sources,Prior to 4/20/2020,
+,,Treatment,Cell-based therapies,Bone marrow-derived allogenic mesenchymal stem cells (BM-Allo-MSC),Pre-clinical,,,ImmunityBio / NantKwest,,,,N/A,Sources,Prior to 4/20/2020,
+,91,Treatment,Cell-based therapies,"Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Clinical,Phase 2 started in April 2020,"NCT04348435
+
+NCT04349631
+
+NCT04362189",Hope Biosciences,Hope Biosciences Stem Cell Research Foundation,,Rheumatoid arthritis,N/A,Sources,4/24/2020,
+,92,Treatment,Cell-based therapies,"Astrostem-V, Allogenic, adipose-derived mesenchymal stem cells (HB-adMSCs)",Clinical,Phase 1/2a trial approved by South Korea Ministry of Food and Drug Safety in March 2020,,Naturecell,,,,N/A,Sources,5/7/2020,
+,93,Treatment,Cell-based therapies,"AmnioBoost, concentrated allogeneic MSCs and cytokines derived from amniotic fluid",Clinical,Phase 1 enrolling April 2020,,Lattice Biologics,,,,N/A,Sources,4/23/2020,
+,94,Treatment,Cell-based therapies,Chimeric antigen receptors (CAR)/T cell receptors (TCR)-T cell therapy ,Pre-clinical,,,Duke-NUS Medical School,,,,N/A,Sources,4/30/2020,
+,95,Treatment,RNA-based treatments,RNAi - testing 150 RNAis,Pre-clinical,,,Sirnaomics,,,,N/A,Sources,Prior to 4/20/2020,
+,,Treatment,RNA-based treatments,VIR-2703 (ALN-COV) siRNA candidate,Pre-clinical,"Phase 1 to start by the end of 2020
+",,Vir Biotech / Alnylam Pharmaceuticals,,,,N/A,Sources,5/5/2020,5/1/2020
+,96,Treatment,RNA-based treatments,Ampligen; (rintatolimod),Pre-clinical,,,AIM ImmunoTech/National Institute of Infectious Diseases in Japan,,,,N/A,Sources,Prior to 4/20/2020,
+,97,Treatment,RNA-based treatments,"OT-101, a TGF-Beta antisense drug candidate",Clinical,"Phase 2 study IND submitted to FDA on April 27, 2020
+",,Mateon Therapeutics,,,Various cancers,N/A,Sources,5/7/2020,
+,98,Treatment,RNA-based treatments,Inhaled mRNA,Pre-clinical,Phase 1 to start Q4 2020,,Neurimmune / Ethris,,,,N/A,Sources,Prior to 4/20/2020,
+,99,Treatment,RNA-based treatments,"Antisense oligonucleotides, peptide conjugated",Pre-clinical,,,Sarepta Therapeutics/ US Army Medical Research Institute of Infectious Diseases (USAMRIID),,,,N/A,Sources,5/1/2020,
+,100,Treatment,Scanning compounds to repurpose,Scanning library of antiviral compounds,Pre-clinical,,,Janssen Pharmaceutical Companies,Biomedical Advanced Research and Development Authority (BARDA),,N/A,N/A,Sources,Prior to 4/20/2020,
+,101,Treatment,Scanning compounds to repurpose,Scanning compounds to repurpose,Pre-clinical,,,Novartis,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,102,Treatment,Scanning compounds to repurpose,Scanning antiviral compounds previously in development,Pre-clinical,Lead candidate (protease inhibitor) to start Phase 1 trial in Q3 2020,,Pfizer,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,103,Treatment,Scanning compounds to repurpose,Scanning compounds to repurpose,Pre-clinical,,,Merck,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,104,Treatment,Scanning compounds to repurpose,Repurposing antiviral drug candidates,Pre-clinical,,,Materia Medica/Cyclica,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,105,Treatment,Scanning compounds to repurpose,Screening new drugs + library of antiviral compounds,Pre-clinical,,,Enanta Pharmaceuticals,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,106,Treatment,Scanning compounds to repurpose,Screening drug compounds,Pre-clinical,,,Southwest Research Institute,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,107,Treatment,Scanning compounds to repurpose,Scanning compounds to repurpose,Pre-clinical,,,Takeda,,,N/A,N/A,Sources,Prior to 4/20/2020,
+,108,Treatment,Scanning compounds to repurpose,Scanning compounds to repurpose,Pre-clinical,,,Queens University Belfast,UK Government,,N/A,N/A,Sources,Prior to 4/20/2020,
+,109,Treatment,Scanning compounds to repurpose,Scanning compound libraries,Pre-clinical,,,"COVID-19 Therapeutics Accelerator (15 companies shared their compound libraries including BD, bioMérieux, Boehringer Ingelheim, Bristol-Myers Squibb, Eisai, Eli Lilly, Gilead, GSK, Johnson & Johnson, Merck [known as MSD outside the US and Canada], Merck KGaA, Novartis, Pfizer, and Sanofi)/ Fujifilm Diosynth Biotechnologies",Gates Foundation / Wellcome / Mastercard Impact Fund,,N/A,N/A,Sources,5/1/2020,
+,110,Treatment,Scanning compounds to repurpose,Artificial intellegence-based screening to identify repurposed drug combinations,Pre-clinical,Combinations will be ready for preclinical testing in May 2020,,Healx,,,N/A,,Sources,Prior to 4/20/2020,
+,,Treatment,Scanning compounds to repurpose,Identifying drugs to repurpose,Pre-clinical,,,The Castleman Disease Collaborative Network and the Center for Study & Treatment of Inflammatory Lymphadenopathies,,,,,Sources,Prior to 4/20/2020,
+,,Treatment,Scanning compounds to repurpose,Screening for antiviral drug candidates,Pre-clinical,,,Anixa Biosciences/ OntoChem,,,,,Sources,4/21/2020,
+,,Treatment,Scanning compounds to repurpose,Identifying drugs to repurpose,Pre-clinical,Identified 30 known drugs that inhibit SARS-CoV-2 replication,,"Sanford Burnham Prebys Medical Discovery Institute, the University of Hong Kong, Scripps Research, UC San Diego School of Medicine, the Icahn School of Medicine at Mount Sinai and UCLA",,bioRxiv (https://doi.org/10.1101/2020.04.16.044016),,,Sources,4/21/2020,
+,111,Treatment,Scanning compounds to repurpose,AI-based screening to identify a peptide cocktail,Pre-clinical,,,Nuritas,Partnership for Advanced Computing in Europe (PACE),,,N/A,Sources,4/24/2020,
+,112,Treatment,Scanning compounds to repurpose,Identify anti-coronavirus compounds that target cellular host genes,Pre-clinical,,,Vir Biotechnology/ GSK,,,,N/A,Sources,4/29/2020,
+,113,Treatment,Scanning compounds to repurpose,Screening of drug compounds,Pre-clinical,,,Vanda Pharmaceuticals/ University of Illinois at Chicago,,,,N/A,Sources,4/29/2020,
+,114,Treatment,Scanning compounds to repurpose,Identify novel drugs,Pre-clinical,,,Shionogi/ Hokkaido University Research Center for Zoonosis Control,,,,N/A,Sources,4/29/2020,
+,115,Treatment,Other,Methylprednisolone / ciclesonide/ hydrocortisone/ corticosteroids,Clinical,Primary study ends April 2020 (Peking) / June 2020 (Tongji)/ RECOVERY trial results expected by June 2020,"NCT04244591
+
+NCT04263402
+
+NCT04273321
+
+ChiCTR2000029656
+
+ChiCTR2000029386
+
+NCT02735707
+
+NCT04330586        
+
+2020-001113-21
+
+NCT04345445
+
+NCT04349410 
+
+NCT04329650",Numerous trials with research sponsors globally; University of Oxford RECOVERY trial; REMAP-CAP global trial,UK Government (University of Oxford RECOVERY trial),"medRxiv (https://doi.org/10.1101/2020.03.06.20032342)       
+
+medRxiv (https://doi.org/10.1101/2020.03.28.20045955)        
+
+medRxiv (https://doi.org/10.1101/2020.04.07.20056390)
+
+medRxiv (https://doi.org/10.1101/2020.04.17.20064469)
+
+medRxiv (https://doi.org/10.1101/2020.04.17.20069773)
+
+medRxiv (https://doi.org/10.1101/2020.04.21.20066258)
+
+medRxiv (https://doi.org/10.1101/2020.05.04.20074609)",,"FDA-approved since at least the 1950s, approved to treat many diseases, including anti-iflammatory conditions and some cancers",Sources,5/10/2020,
+,116,Treatment,Other,"Chloroquine/ Hydroxychloroquine, antimalarial",,Results from the University of Washington/New York University trial expected in summer 2020; RECOVERY trial results expected by June 2020,"Over 50 trials registered at Clinicaltrials.gov, including:
+
+NCT04261517     
+
+NCT04303507
+
+NCT04303299      
+
+NCT04304053    
+
+NCT04307693
+
+NCT04316377   
+
+NCT04315948         
+
+NCT04321993      
+
+2020-001113-21   
+
+NCT04323527    
+
+NCT04333732      
+
+NCT04332991 
+
+NCT04345419
+
+NCT04341870
+
+NCT04345289      
+
+NCT02735707
+
+NCT04351347
+
+NCT04341493
+
+NCT04332094
+
+NCT04349410
+
+NCT04286503
+
+NCT04328012
+
+NCT04346147","Numerous trials with global research sponsors; University of Minnesota; University of Washington/New York University (hydroxychloroquine); University of Oxford; IHU-Méditerranée Infection and others; World Health Organization SOLIDARITY trial (chloroquine); New York State Department of Health (hydroxychloroquine with zithromax); Mahidol Oxford Tropical Medicine Research Unit (hydroxychloroquine and chloroquine); ORCHID Trial with National Heart, Lung, and Blood Institute (NHLBI); REMAP-CAP global trial; Novartis; PRINCIPLE trial",COVID-19 Treatment Accelerator (University of Washington/New York University trial and Mahidol Oxford Tropical Medicine Research Unit trial); UK Government (University of Oxford RECOVERY trial and PRINCIPLE trial),"NCT04261517 (https://clinicaltrials.gov/ct2/show/NCT04261517?draw=5+%28prelim+outcomes%3F%29)       
+
+IHU-Méditerranée Infection (https://www.mediterranee-infection.com/wp-content/uploads/2020/03/Hydroxychloroquine_final_DOI_IJAA.pdf)       
+
+Journal of ZheJiang University (Medical Sciences) (http://www.zjujournals.com/med/CN/10.3785/j.issn.1008-9292.2020.03.03)       
+
+medRxiv (https://doi.org/10.1101/2020.03.22.20040758)       
+
+Int'l Journal of Antimicrobial Agents (https://doi.org/10.1016/j.ijantimicag.2020.105949)      
+
+medRxiv (ChiCTR2000029559) (https://doi.org/10.1101/2020.04.10.20060558)       
+
+medRxiv (https://doi.org/10.1101/2020.03.22.20040949)       
+
+medRxiv (https://doi.org/10.1101/2020.04.02.20047050)       
+
+medRxiv (https://doi.org/10.1101/2020.03.31.20048777)       
+
+medRxiv (https://doi.org/10.1101/2020.03.24.20042366)        
+
+medRxiv (NCT04323527) (https://doi.org/10.1101/2020.04.07.20056424)       
+
+medRxiv (https://doi.org/10.1101/2020.04.08.20057539)       
+
+medRxiv (https://doi.org/10.1101/2020.04.08.20054551)       
+
+ScienceDirect (https://www.sciencedirect.com/science/article/pii/S0399077X20300858?via%3Dihub)       
+
+ISAC (https://www.isac.world/news-and-publications/official-isac-statement)       
+
+ScienceDirect (https://www.sciencedirect.com/science/article/pii/S0924857920300996)       
+
+medRxiv (https://doi.org/10.1101/2020.04.10.20060699)       
+
+medRxiv (ChiCTR2000029868) (https://doi.org/10.1101/2020.04.10.20060558)       
+
+medRxiv (https://doi.org/10.1101/2020.04.14.20065276)
+
+medRxiv (https://doi.org/10.1101/2020.04.16.20065920)
+
+medRxiv (https://doi.org/10.1101/2020.04.16.20068205)
+
+medRxiv (https://doi.org/10.1101/2020.04.22.20075671)
+
+medRxiv (https://doi.org/10.1101/2020.04.21.20066761)
+
+medRxiv (https://doi.org/10.1101/2020.04.26.20081059)
+
+medRxiv (https://doi.org/10.1101/2020.04.27.20082180)
+
+medRxiv (https://doi.org/10.1101/2020.04.27.20073379)
+
+medRxiv (https://doi.org/10.1101/2020.04.27.20074583)
+
+NEJM (https://www.nejm.org/doi/full/10.1056/NEJMoa2012410)
+
+medRxiv (https://doi.org/10.1101/2020.05.02.20080036)
+
+medRxiv (https://doi.org/10.1101/2020.05.02.20088872)",,"FDA-approved since 1949, approved to treat malaria (chloroquine), FDA-approved since at least 1955, approved to treat malaria, rheumatoid arthritis, and lupus (hydroxychloroquine)",Sources,5/12/2020,
+,117,Treatment,Other,"camostat mesylate, transmembrane protease serine 2 (TMPRSS2) inhibitor, approved in Japan to treat multiple conditions including pancreatitis",Clinical,"Phase 1/2, Phase 2, and Phase 3 trials recruiting in May 2020
+","NCT04321096
+
+NCT04353284
+
+NCT04338906
+
+NCT04374019
+
+NCT04355052","Multiple global research sponsors
+",,,,N/A,Sources,5/7/2020,
+,118,Treatment,Other,Jakafi/jakavi (ruxolitinib),Clinical / Expanded Access,Novartis/Incyte Phase 3 trial started April 2020,"ChiCTR2000029580
+
+NCT04334044
+
+NCT04331665
+
+NCT04337359
+
+NCT04348071
+
+NCT04338958
+
+NCT04348695
+
+NCT04355793
+
+NCT04354714
+
+NCT04377620
+
+NCT04362137
+
+NCT04366232
+
+NCT04361903
+
+NCT04374149
+
+NCT04338958
+
+NCT04359290","Novartis / Incyte, numerous researchers globally",,,,"FDA-approved since 2011, approved to treat myelofibrosis, polycythemia vera, and acute graft-versus-host disease",Sources,5/8/2020,
+,119,Treatment,Other,"interferon/peginterferon alpha-2b, PegIntron, Sylatron, IntronA, PegiHep 
+",Clinical,"Phase 2/3 enrolling May 2020
+","NCT04273763
+
+NCT04349410","Zydus Cadila Group; The Camelot Foundation
+",,,,"PegIntron - FDA-approved since 2001, approved to treat Hepatitis C; Sylatron - FDA-approved since 2001, approved for the adjuvant treatment of melanoma; Intron A - FDA-approved since 1986, approved to treat Hepatitis C and certain cancers",Sources,5/7/2020,
+,120,Treatment,Other,"Novaferon, Nova, interferon, licensed in China for Hepatitis B",Clinical,,"ChiCTR2000029573       
+
+ChiCTR2000029496","Hu'nan Haiyao hongxingtang Pharmaceutical Co., Ltd (Novaferon) 
+",,medRxiv (https://doi.org/10.1101/2020.04.24.20077735),,N/A,Sources,5/7/2020,
+,121,Treatment,Other,Traumakine (interferon beta 1-a),Clinical,"REMAP-CAP trial recruiting May 2020 
+",NCT02735707,"Faron Pharmaceuticals / REMAP-CAP global trial/ WHO SOLIDARITY trial 
+",,,,N/A,Sources,5/7/2020,
+,122,Treatment,Other,Recombinant human interferon alpha-1b,Clinical,"Phase 3 trial recruiting May 2020
+",NCT04320238,Shanghai Jiao Tong University School of Medicine,,medRxiv (https://doi.org/10.1101/2020.04.11.20061473),,,Sources,5/7/2020,
+,123,Treatment,Other,"SNG001, inhaled formulation of interferon beta-1a",Clinical,"Phase 2 began in March 2020; initial results expected by end of June 2020
+",,Synairgen / University of Southampton,,,Asthma patients with cold or flu infection; COPD patients with viral infections,N/A,Sources,5/8/2020,
+,124,Treatment,Other,Peginterferon lambda,Clinical,Phase 2 began in April 2020,NCT04331899,"Eiger BioPharmaceuticals, Inc.",,,Hepatitis Delta,,Sources,Prior to 4/20/2020,
+,125,Treatment,Other,"Cerocal (ifenprodil), NP-120, an NDMA receptor glutamate receptor antagonist targeting Glu2NB",Pre-clinical,,,Algernon Pharmaceuticals,,,Idiopathic Pulmonary Fibrosis,N/A,Sources,Prior to 4/20/2020,
+,126,Treatment,Other,APN01; recombinant soluble human Angiotensin Converting Enzyme 2,Clinical,Phase 2 began in April 2020,,University of British Columbia/Apeiron Biologics,Austrian Government,,"Acute lung injury, Acute respiratory distress syndrome, Pulmonary arterial hypertension",N/A,Sources,Prior to 4/20/2020,
+,127,Treatment,Other,"Brilacidin, a defensin mimetic",Clinical,,,Innovation Pharmaceuticals,,,Oral Mucositis; Ulcerative Proctitis/Ulcerative Proctosigmoiditis; Acute Bacterial Skin and Skin Structure Infection,N/A,Sources,4/28/2020,
+,128,Treatment,Other,BXT-25; glycoprotein,Pre-clinical,,,Bioxytran,,,,N/A,Sources,Prior to 4/20/2020,
+,129,Treatment,Other,Peptides targeting the NP protein,Pre-clinical,,,CEL-SCI / University of Georgia Center for Vaccines and Immunology,,,,Unknown,Sources,Prior to 4/20/2020,
+,130,Treatment,Other,"BIO-11006, inhaled peptide",Clinical,,,Biomarck Pharmaceuticals,,,Acute Respiratory Distress Syndrome; Non-Small Cell Lung Cancer; Chronic Obstructive Pulmonary Disease (COPD),N/A,Sources,4/24/2020,
+,131,Treatment,Other,"Gilenya (fingolimod), sphingosine 1-phosphate receptor modulator",Clinical,"Phase 2 trial recruiting May 2020
+",NCT04280588,The First Affiliated Hospital of Fujian Medical University/Novartis,,,,"FDA-approved since 2010, approved to treat multiple sclerosis",Sources,5/7/2020,
+,132,Treatment,Other,"WP1122, glucose decoy prodrug (and related drug candidates)",Pre-clinical,,,Moleculin Biotech / University of Texas Medical Branch,,,,N/A,Sources,Prior to 4/20/2020,
+,,Treatment,Other,Rebif (interferon beta-1a),Clinical,"Phase 3 trial recruiting May 2020
+","EudraCT 2020-000936-23     
+
+NCT04315948",Institut National de la Sante et de la Recherche Medicale (Merck KGaA),,,,"FDA-approved since 2002, approved to treat multiple sclerosis",Sources,5/7/2020,
+,133,Treatment,Other,"nafamostat, approved in Japan to treat pancreatitis and other diseases",Clinical,University of Tokyo trial (IV formulation) starts April 2020; Ensysce trial will be with oral formulation,,University of Tokyo / National Center for Global Health and Medicine/ Ensysce Biosciences,,,,N/A,Sources,Prior to 4/20/2020,
+,134,Treatment,Other,A number of synthesized nanoviricide drug candidates,Pre-clinical,,,NanoViricides,,,,N/A,Sources,Prior to 4/20/2020,
+,135,Treatment,Other,"Cozaar (losartan), angiotensin II receptor blocker (ARB)
+",Clinical,Phase 2 and Phase 2/3 and Phase 4 trials recruiting in May 2020,"NCT04312009
+
+NCT04311177
+
+NCT04349410
+
+NCT04335123
+
+NCT04343001
+
+NCT04328012
+
+NCT04340557","Multiple global research sponsors
+","COVID-19 Treatment Accelerator 
+",,,"FDA-approved since 1995, approved to treat hypertension and diabetic nephropathy",Sources,5/8/2020,
+,136,Treatment,Other,"Diovan (valsartan), angiotensin II receptor blocker (ARB)",Clinical,"Phase 4 trials recruiting May 2020
+","NCT04335786
+
+NCT04330300","Multiple global research sponsors
+",,,,"FDA-approved since 1996, approved to treat hypertension, treat heart failure, and reduce cardiovascular mortality in patients after myocardial infarction",Sources,5/8/2020,
+,137,Treatment,Other,Micardis (telmisartan),Clinical,Phase 2 not yet recruiting as of April 2020,NCT04360551,University of Hawaii (Boehringer Ingelheim),,,,"FDA-approved since 1998, approved to treat hypertension and reduce cardiovascular risk in patients unable to take ACE inhibitors",Sources,4/27/2020,
+,138,Treatment,Other,"Activase (alteplase), tissue plasminogen activator (tPA)",Compassionate Use,,,"Beth Israel Deaconess, the University of Colorado Anschultz Medical Campus, and Denver Health (Genentech)",,,,"FDA-approved since 1987, approved to treat stroke, myocardial infarction, and pulmonary embolism",Sources,Prior to 4/20/2020,
+,139,Treatment,Other,"Leukine (sargramostim, rhu-Granulocyte macrophage colony stimulating factor )",Clinical,,NCT04326920,Partner Therapeutics,,,Pulmonary conditions that affect alveolar macrophases (nebulized leukine); ARDS (IV leukine),"FDA-approved since 1991, approved to shorten the time to neutrophil recovery and reduce the incidence of infections following chemotherapy, mobilize hematopoietic progenitor cells, accelerate myeloid reconstitution following bone marrow or cell transplantation, treat delayed neutrophil recovery or graft failure after bone marrow transplantation, and increase survival of radiation",Sources,Prior to 4/20/2020,
+,140,Treatment,Other,"Kineret (anakinra), interleukin-1 receptor antagonist",Clinical,,"NCT04324021
+
+NCT02735707
+
+NCT04339712
+
+NCT04330638
+
+NCT04366232",Swedish Orphan Biovitrum / REMAP-CAP global trial,,medRxiv (https://doi.org/10.1101/2020.04.23.20076612),,"FDA-approved since 2001, approved to treat rheumatoid arthritis and cryopyrin-associated periodic syndromes",Sources,5/7/2020,
+,141,Treatment,Other,"AT-001, aldose reductase inhibitor",Clinical / Compassionate Use,,,Applied Therapeutics / numerous New York City hospitals,,,Diabetic cardiomyopathy,N/A,Sources,Prior to 4/20/2020,
+,142,Treatment,Other,"Aplidin (plitidepsin), approved in Australia to treat multiple myeloma",Clinical,,,PharmaMar,,,,,Sources,Prior to 4/20/2020,
+,143,Treatment,Other,"dipyridamole (Persantine), anticoagulant",Clinical,,,Numerous Chinese hospitals,,medRxiv (https://doi.org/10.1101/2020.02.27.20027557),,"FDA-approved since 1961, approved to prevent postoperative thromboembolic complications of cardiac valve replacement",Sources,Prior to 4/20/2020,
+,144,Treatment,Other,recombinant human plasma gelsolin (rhu-pGSN),Clinical,,,BioAegis Therapeutics Inc.,,,Community-acquired pneumonia,N/A,Sources,Prior to 4/20/2020,
+,145,Treatment,Other,solnatide (synthetic molecule with a structure based on the lectin-like domain of human Tumour Necrosis Factor alpha),Clinical,,,Apeptico,EU Commission (Horizon 2020 Program),,"Pneumonia, sepsis, ARDS, Primary Graft Dysfunction, and pulmonary dysfunctions",N/A,Sources,Prior to 4/20/2020,
+,146,Treatment,Other,Nitric oxide,Clinical,,"NCT04305457
+
+NCT04312243	
+
+NCT04306393
+
+NCT03331445",Massachusetts General Hospital; University of British Columbia,,,,"FDA-approved since 1999, approved to improve oxygenation in neonates",Sources,Prior to 4/20/2020,
+,147,Treatment,Other,PP-001,Clinical,,,Panoptes Pharma GmbH,,,Severe eye diseases,N/A,Sources,Prior to 4/20/2020,
+,148,Treatment,Other,ARMS-1,Clinical,Trial starts April 2020,,ARMS Pharmaceutical / UH Cleveland Medical Center / Case Western Reserve University,Cleveland Foundation,,Influenza prophylaxis,N/A,Sources,Prior to 4/20/2020,
+,149,Treatment,Other,PUL-042 inhalation solution,Clinical,,NCT04312997,Pulmotect,,,Prevent and treat respiratory complications in immunosuppressed cancer patients,N/A,Sources,Prior to 4/20/2020,
+,150,Treatment,Other,"Olumiant (baricitinib), Janus kinase (JAK) inhibitor",Clinical,"NIAID trial remdesivir + opaganib recruiting May 2020
+","NCT04321993
+
+NCT04320277
+
+NCT04340232 
+
+NCT04280705
+
+NCT04345289
+
+NCT04346147
+
+NCT04358614
+
+NCT04373044",National Institute of Allergy and Infectious Disease (NIAID)'s Adaptive COVID-19 Treatment Trial; Nova Scotia Health Authority; Hospital of Prato; University of Colorado (Eli Lilly),,,,"FDA-approved since 2018, approved to treat rheumatoid arthritis",Sources,5/12/2020,
+,151,Treatment,Other,"Xeljanz (tofacitinib), Janus kinase (JAK) inhibitor",Clinical,,NCT04332042,Pfizer,,,,"FDA-approved since 2012, approved to treat rheumatoid arthritis, psoriatic arthritis, and ulcerative colitis",Sources,Prior to 4/20/2020,
+,152,Treatment,Other,colchicine,Clinical,,"NCT04326790
+
+NCT04328480
+
+NCT04322565	
+
+NCT04322682",Numerous research sponsors globally,,,,"N/A (but has been used in the US since the early 1800s, and FDA-approved in combination with probenecid, approved to treat gout)",Sources,Prior to 4/20/2020,
+,153,Treatment,Other,"heparin; low molecular weight heparin (enoxaparin), anticoagulant
+",Clinical,,"NCT04366960 
+
+NCT04360824 
+
+NCT04359277 
+
+NCT04354155 
+
+NCT04367831 
+
+NCT04345848 
+
+NCT04373707 
+
+NCT04372589 
+
+NCT04362085 
+
+NCT04344756","Multiple global research sponsors
+",,"medRxiv (https://doi.org/10.1101/2020.03.28.20046144)       
+
+medRxiv (https://doi.org/10.1101/2020.04.15.20067017)
+
+medRxiv (https://doi.org/10.1101/2020.04.23.20076851)
+
+JACC (http://www.onlinejacc.org/content/early/2020/05/05/j.jacc.2020.05.001?_ga=2.52741547.2046438614.1588863110-2104341714.1587686709)",,"FDA-approved since at least 1993, approved to prevent blood clots and prevent/treat venous thromboembolism and myocardial infarction",Sources,5/10/2020,
+,154,Treatment,Other,"DSTAT (dociparstat sodium), glycosaminoglycan derivative of heparin
+",Clinical,"Phase 2/3 study to start in May 2020
+",,"Chimerix
+",,,"Acute myeloid leukemia
+",N/A,Sources,5/5/2020,
+,155,Treatment,Other,LAU-7b (fenretinide),Clinical,Phase 2 to start May 2020,,Laurent Pharmaceuticals,,,Treat exaggerated inflammatory response in adult cystic fibrosis patients,N/A,Sources,5/10/2020,
+,156,Treatment,Other,"Xpovio (selinexor), oral, selective inhibitor of nuclear export (SINE) compound",Clinical,,,Karyopharm Therapeutics,,,Treat various cancers,"FDA-approved since 2019, approved to treat multiple myeloma",Sources,Prior to 4/20/2020,
+,157,Treatment,Other,"BLD-2660, synthetic small molecule inhibitor of calpain (CAPN) 1, 2, and 9",Clinical,,NCT04334460,Blade Therapeutics,,,,N/A,Sources,Prior to 4/20/2020,
+,158,Treatment,Other,"Calquence (acalabrutinib), Bruton's tyrosine kinase (BTK) inhibitor",Clinical,"ACCORD Phase 2 trial to start May 2020
+","NCT04346199
+
+NCT04380688","AstraZeneca; ACCORD study 
+","UK Government (ACCORD study)
+",,,"FDA-approved since 2017, approved to treat mantle cell lymphoma and chronic lymphocytic leukemia",Sources,5/10/2020,
+,159,Treatment,Other,"CD24Fc, biological immunomodulator (nonpolymorphic regions of CD24 attached to the Fc region of human IgG1)",Clinical,Phase 3 trial started in April 2020,NCT04317040,OncoImmune,,,Graft versus Host Disease,N/A,Sources,4/24/2020,
+,160,Treatment,Other,"Aviptadil, synthetic form of Vasoactive Intestinal Polypeptide",Clinical,Phase 2 trial started in April 2020,NCT04311697,NeuroRx/ Relief Therapeutics/ Thomas Jefferson University Hospital/ NYU Langone Health,,,"Sarcoid, Pulmonary Fibrosis, Bronchospasm, Erectile Dysfunction, and Acute Respiratory Distress Syndrome (ARDS)",N/A,Sources,5/10/2020,
+,161,Treatment,Other,"vazegepant, CGRP receptor antagonist",Clinical,Phase 2 to start April 2020,,Biohaven / Thomas Jefferson University,,,Acute migraine,,Sources,Prior to 4/20/2020,
+,162,Treatment,Other,"CM4620-IE, calcium release-activated calcium (CRAC) channel inhibtor",Clinical,Phase 2 started in April 2020,NCT04345614,CalciMedica,,,Pancreatitis,,Sources,Prior to 4/20/2020,
+,163,Treatment,Other,ivermectin,Clinical,,"NCT04343092
+
+NCT04345419
+
+NCT04351347",MedinCell/ University of Utah/ Surgisphere Corp; University of Baghdad; Tanta University,,,,"FDA-approved since 1996, approved to treat intestinal parasites and head lice infestations",Sources,4/23/2020,
+,164,Treatment,Other,"nitazoxanide, antiprotozoal",Clinical,,"NCT04351347
+
+NCT04348409
+
+NCT04343248
+
+NCT04341493
+
+NCT04345419",Romark Laboratories; various researchers globally,,,,"FDA-approved since 2002, approved to treat diarrhea caused by Giardia lamblia or Cryptosporidum parvum",Sources,4/23/2020,
+,165,Treatment,Other,"EPAspire, oral formulation of highly purified eicosapentaenoic acid free fatty acid (EPA-FFA) in gastro-resistant capsules",Clinical,,,KD Pharma / SLA Pharma,,,Familial adenomatous polyposis,N/A,Sources,Prior to 4/20/2020,
+,166,Treatment,Other,niclosamide,Clinical,,NCT04345419,Union Therapeutics/ Institut Pasteur Korea/ Daewoong Therapeutics,,,Atopic Dermatitis,N/A,Sources,4/24/2020,
+,167,Treatment,Other,"ADX-629, orally available reactive aldehyde species (RASP) inhibitor",Clinical,,,Aldeyra Therapeutics,,,Systemic immune-mediated diseases,N/A,Sources,Prior to 4/20/2020,
+,168,Treatment,Other,"N-803, IL-15 ""superagonist""",Clinical,,,ImmunityBio / NantKwest,,,Bladder Carcinoma In Situ,N/A,Sources,Prior to 4/20/2020,
+,169,Treatment,Other,"piclidenoson, A3 adenosine receptor agonist",Clinical,,NCT04333472,Can-Fite BioPharma,,,Rheumatoid arthritis; psoriasis,N/A,Sources,Prior to 4/20/2020,
+,170,Treatment,Other,"Ryanodex (dantrolene sodium), skeletal muscle relaxant",Clinical,,,Eagle Pharmaceuticals / Amneal Pharmaceuticals / Alcami Corporation / Hackensack University Medical Center,,,,"FDA-approved since 2014, approved to prevent and treat malignant hyperthermia",Sources,4/21/2020,
+,171,Treatment,Other,Veyonda (idronoxil),Clinical,,,Noxopharm,,,Prostate cancer,N/A,Sources,4/23/2020,
+,175,Treatment,Other,"MRx-4DP0004, strain of Bifidobacterium breve isolated from the gut microbiome of a healthy human",Clinical,UK approval to start Phase 2 study in April 2020,,4D Pharma,,,Asthma,N/A,Sources,4/23/2020,
+,176,Treatment,Other,"EDP1815, oral single strain of microbe ",Clinical,"Phase 2 to start and data expected 2H 2020
+",,Evelo Biosciences/ Rutgers University/ Robert Wood Johnson University Hospital,,,Psoriasis and Atopic Dermatitis,,Sources,5/10/2020,
+,,Treatment,Other,"roscovitine seliciclib, cyclin-dependent kinase (CDK)2/9 inhibitor",Clinical,,,Cyclacel Pharmaceuticals/ University of Edinburgh,LifeArc,,Rheumatoid arthritis,N/A,Sources,4/23/2020,
+,,Treatment,Other,"fadraciclib (CYC065), cyclin-dependent kinase (CDK)2/9 inhibitor",Clinical,,,Cyclacel Pharmaceuticals/ University of Edinburgh,LifeArc,,Various cancers,N/A,Sources,4/23/2020,
+,,Treatment,Other,"ATYR1923, fusion protein (immuno-modulatory domain of histidyl tRNA synthetase fused to the Fc region of a human antibody) modulator of neuropilin-2",Clinical,Phase 2 study ~ April/May 2020,,aTyr,,,Pulmonary sarcoidosis,N/A,Sources,4/24/2020,
+,,Treatment,Other,"Farxiga (dapagliflozin), sodium-glucose cotransporter 2 (SGLTs) inhibitor",Clinical,Phase 3 study started in April 2020,NCT04350593,AstraZeneca/ Saint Luke's Mid America Heart Institute,,,Heart failure; Chronic kidney disease,"FDA-approved since 2014, approved to improve glycemic controls in adults with type 2 diabetes and reduce the risk of hospitalization for heart failure in adults with type 2 diabetes",Sources,4/24/2020,
+,,Treatment,Other,Ruconest (recombinant human C1 esterase inhibitor),Compassionate Use,,,Pharming,,Pharming (https://www.pharming.com/sites/default/files/imce/Press%20releases/Ruconest%20Covid%20compassionate%20use%2021%20April%202020.pdf),,"FDA-approved since 2014, approved to treat hereditary angioedema",Sources,4/24/2020,
+,,Treatment,Other,"DIBI, iron-binding polymer",Pre-clinical,,,Chelation Partners,,,,N/A,Sources,4/28/2020,
+,,Treatment,Other,"brensocatib, oral, reversible inhibitor of dipeptidyl peptidase 1 (DPP1)",Clinical,Phase 2 study to begin enrollment in May 2020,,Insmed Inc.,,,Bronchiectasis and other inflammatory diseases,N/A,Sources,4/28/2020,
+,,Treatment,Other,"Pepcid (famotidine), histamine-2 (H2) receptor antagonist",Clinical,Phase 2 study underway in April 2020,,Feinstein Institutes for Medical Research at Northwell Health/ Alchem,,medRxiv (https://doi.org/10.1101/2020.05.01.20086694),,"FDA-approved since 1986, approved to treat ulcers, gastroesophageal reflux disease, erosive esophagitis, pathological hypersecretory conditions, and to reduce the risk of duodenal ulcer recurrence",Sources,5/10/2020,
+,,Treatment,Other,"tradipitant, a neurokinin-1 receptor antagonist",Clinical,Phase 3 trial started in April 2020,NCT04326426,Vanda Pharmaceuticals/ Feinstein Institutes for Medical Research at Northwell Health,,,"Gastroparesis, motion sickness, and atopic dermatitis",N/A,Sources,4/29/2020,
+,,Treatment,Other,"GP1681, small molecule inhibitor of cytokine release",Pre-clinical,,,Quotient Sciences/ CytoAgents,,,,N/A,Sources,4/29/2020,
+,,Treatment,Other,"Metablok, peptide",Clinical,,,Arch Biopartners,,,Lung and Kidney Inflammation,N/A,Sources,4/30/2020,
+,172,Treatment,Other,"pacritinib, oral kinase inhibitor with specificity for JAK2, IRAK1 and CSFIR",Clinical,"Phase 3 to start in May 2020, results expected by the end of 2020",,CTI Biopharma,,,Myelofibrosis,N/A,Sources,4/30/2020,
+,173,Treatment,Other,Microbiome therapeutic,Pre-clinical,Clinical trials to start in 2020,,Persephone Biosciences,,,,N/A,Sources,4/30/2020,
+,174,Treatment,Other,"pH barrier, transepithelial nebulized alkaline treatment",Pre-clinical,,,pHbarrier,,,,N/A,Sources,4/30/2020,
+,175,Treatment,Other,"Coronzot, a novel family of drugs, sequestration of the labile iron",Pre-clinical,,,Silkim Pharma,,,,N/A,Sources,5/1/2020,
+,176,Treatment,Other,"Neumifil, multivalent carbohydrate binding molecules",Pre-clinical,,,Pneumagen Ltd.,,,,N/A,Sources,5/1/2020,
+,182,Treatment,Other,"bemcentinib, selective AXL kinase inhibitor",Clinical,"Phase 2 top line data expected July-August 2020; ACCORD trial to start May 2020
+",,BerGenBio; ACCORD study,UK Government (ACCORD study),,Various cancers ,N/A,Sources,5/10/2020,
+,1,Treatment,Other,"Otezla (apremilast), inhibitor of phosphodiesterase 4 (PDE4)",Clinical,,,Amgen,,,,"FDA-approved since 2014, approved to treat psoriatic arthritis, severe plaque psoriasis, and oral ulcers associated with Behcet's Disease",Sources,5/4/2020,
+,2,Treatment,Other,"MN-166 (ibudilast), orally bioavailable, small molecule macrophase migration inhibitory factor (MIF) inhibitor and phosphodiesterase (PDE) -4 and -10 inhibitor",Clinical,,,"MediciNova/ Yale
+",,,"Treatment of numerous neurodegenerative diseases and substance dependence
+",N/A,Sources,5/5/2020,
+,1,Treatment,Other,"Yeliva (opaganib, ABC294640), oral sphingosine kinase-2 (SK2) selective inhibitor
+","Clinical/ Compassionate Use
+",Preliminary data from compassionate use released in April 2020,,"RedHill Biopharma
+",,"RedHill Biopharma (https://www.redhillbio.com/RedHill/Templates/showpage.asp?DBID=1&LNGID=1&TMID=178&FID=2432&PID=0&IID=15258)
+
+RedHill Biopharma (https://www.redhillbio.com/RedHill/Templates/showpage.asp?DBID=1&LNGID=1&TMID=178&FID=2432&PID=0&IID=15257)
+
+RedHill Biopharma (https://www.redhillbio.com/RedHill/Templates/showpage.asp?DBID=1&LNGID=1&TMID=178&FID=2432&PID=0&IID=15261)","Various oncology indications
+",N/A,Sources,5/8/2020,
+,2,Treatment,Other,"RHB-107 (upamostat, WX-671), serine protease inhibitor",Clinical,,,"RedHill Biopharma/ NIAID
+",,,"Various oncology indications
+",N/A,Sources,5/8/2020,
+,3,Treatment,Other,"ST266, cell-free biologic made from anti-inflammatory proteins secreted by placental cells",Clinical,Phase 1/2 to start in 4Q 2020,,Noveome Biotherapeutics,Commonwealth of Pennsylvania,,Multiple ophthalmic indications,N/A,Sources,5/10/2020,
+,4,Treatment,Device,"CytoSorb (blood purification device, extracorporeal cytokine adsorber))","FDA issued an Emergency Use Authorization on April 10, 2020 / Clinical / Compassionate Use",,"NCT04324528
+
+ChiCTR2000030475
+
+NCT04344080
+
+DRKS00021447 (CytoSorbents), https://www.drks.de/drks_web/navigate.do?navigationId=trial.HTML&TRIAL_ID=DRKS00021447",CytoSorbents Corporation,,,,N/A,Sources,5/10/2020,
+,5,Treatment,Device,Extracorporeal blood purification (EBP) devices,"FDA issued an Emergency Use Authorization on April 9, 2020",,,Terumo BCT Inc / Marker Therapeutics AG,,,,,Sources,Prior to 4/20/2020,
+,6,Treatment,Device,"Seraph100MicrobindAffinity Blood Filter (Seraphy 100), approved in the EU for pathogen reduction","Clinical/ FDA issued an Emergency Use Authorization on April 17, 2020",,,ExThera Medical,,,,N/A,Sources,4/21/2020,
+,7,Treatment,Device,Oxiris Blood Purification Filter,"FDA issued an Emergency Use Authorization on April 23, 2020",,,Baxter,,,,N/A,Sources,4/24/2020,
+,8,Treatment,Device,INOpulse,Compassionate Use,,,Bellerophon,,,,,Sources,Prior to 4/20/2020,
+,,Treatment,Device,Hemolung Respiratory Assist System,"FDA issued an Emergency Use Authorization on April 24, 2020",,,ALung Technologies,,,Acute Exacerbation of Chronic Obstructive Pulmonary Disease; Acute Respiratory Distress Syndrome (ARDS),N/A,Sources,4/28/2020,
+,9,Treatment,Device,"MultiFiltrate PRO System and multiBic/multiPlus Solutions, continuous renal replacement therapy (CRRT)","FDA issued an Emergency Use Authorization on April 30, 2020",,,Fresenius Medical,,,,N/A,Sources,5/8/2020,
+,,#ff3333,Dormant / Discontinued,Washed microbiota transplantation,Clinical,,NCT04251767,The Second Hospital of Nanjing Medical University,,Study stopped before recruitment,,Unknown,Sources,Prior to 4/20/2020,
+,,,Dormant / Discontinued,Recombinant ACE2 (angiotensin-converting enzyme 2),Clinical,,NCT04287686 ,The First Affiliated Hospital of Guangzhou Medical University,,Study stopped before recruitment,,Unknown,Sources,Prior to 4/20/2020,
+,9,,Dormant / Discontinued,"Combination of ebastine, lopinavir, and interferon alpha
+",Clinical,"Chinese trial site last updated March 30, 2020
+",ChiCTR2000030535,"Mianyang Central Hospital 
+",,,,N/A,Sources,5/7/2020,
+,10,,Dormant / Discontinued,"Xofluza (baloxavir marboxil), polymerase acidic endonuclease inhibitor
+",Clinical,"Chinese trial site last updated February 12, 2020 
+","ChiCTR2000029544
+
+ChiCTR2000029548","Roche/the First Hospital Affiliated to Zhejiang University's Medical School
+",,medRxiv (https://doi.org/10.1101/2020.04.29.20085761) (ChiCTR2000029544),,"FDA-approved since 2018, approved to treat influenza
+",Sources,5/10/2020,
+,,,Dormant / Discontinued,"azvudine, reverse transcriptase inhibitor
+",Clinical,"Chinese trial site last updated February 16, 2020 - March 4, 2020 for various trials ","ChiCTR2000030487
+
+ChiCTR2000030424
+
+ChiCTR2000029853",Numerous trials with Chinese research sponsors,,,,N/A,Sources,5/7/2020,
+,11,Vaccine,DNA-based,DNA plasmid; INO-4800,Clinical,Started Phase 1 in April 2020; initial data expected June 2020; could enter Phase 2/3 trials as early as summer 2020 ,NCT04336410,Inovio Pharmaceuticals/Beijing Advaccine Biotechnology/VGXI Inc./ Richter-Helm BioLogics/Ology Bioservices,Coalition for Epidemic Preparedness (CEPI) / Gates Foundation / US Department of Defense,,"Same platform as vaccine candidates for Lassa, Nipah, HIV, Filovirus, HPV, cancer indications, Zika, and Hepatitis B ",N/A,Sources,5/4/2020,
+,12,Vaccine,DNA-based,DNA,Pre-clinical,Animal results released in May 2020; Phase 1 to start in fall 2020,,Takis / Applied DNA Sciences / Evvivax,,,,N/A,Sources,5/10/2020,
+,13,Vaccine,DNA-based,DNA plasmid,Pre-clinical,Phase 1 to start in 2020,,OPENCORONA - Cobra Biologics / Karolinska Institute,European Commission (Horizon 2020 Program),,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,DNA-based,DNA plasmid,Pre-clinical,,,Osaka University / AnGes / Takara Bio,,,,N/A,Sources,Prior to 4/20/2020,
+,15,Vaccine,DNA-based,DNA plasmid,Pre-clinical,,,Zydus Cadila,,,,N/A,Sources,Prior to 4/20/2020,
+,16,Vaccine,DNA-based,"DNA plasmid, needle-free delivery",Pre-clinical,,,Immunomic Therapeutics / EpiVax / PharmaJet,,,Same platform as vaccine candidates for SARS,N/A,Sources,Prior to 4/20/2020,
+,17,Vaccine,DNA-based,DNA,Pre-clinical,,,BioNet Asia,,,,N/A,Sources,4/20/2020,
+,18,Vaccine,DNA-based,DNA,Pre-clinical,,,University of Waterloo,,,,N/A,Sources,4/20/2020,
+,19,Vaccine,DNA-based,DNA,Pre-clinical,,,"Entos Pharmaceuticals
+",,,,N/A,Sources,5/4/2020,
+,20,Vaccine,DNA-based,DNA,Pre-clinical,Phase 1 to start in Q1 2021,,Scancell/ University of Nottingham,,,Same platform as vaccine candidates for cancer,N/A,Sources,4/28/2020,
+,21,Vaccine,DNA-based,"bacTRL-Spike
+","Pre-clinical
+",,,Symvivo,,,,N/A,Sources,5/12/2020,
+,22,Vaccine,Inactivated virus,Inactivated,Pre-clinical,,,"Institute of Medical Biology, Chinese Academy of Medical Sciences",,,,N/A,Sources,5/4/2020,
+,,Vaccine,Inactivated virus,Inactivated (inactivated + alum),Clinical,Phase 1/2 started April 2020,NCT04352608,Sinovac,,,Same platform as vaccine candidates for SARS,N/A,Sources,4/28/2020,
+,,Vaccine,Inactivated virus,Inactivated (inactivated + CpG 1018),Pre-clinical,,,Sinovac/ Dynavax,,,,N/A,Sources,4/28/2020,
+,23,Vaccine,Inactivated virus,Inactivated,Clinical,Phase 1 started in May 2020, ChiCTR2000031809,Wuhan Institute of Biological Products/ Sinopharm,,,,N/A,Sources,5/4/2020,
+,24,Vaccine,Inactivated virus,Inactivated,Clinical,Phase 1 to start in May 2020,,Beijing Institute of Biological Products/ Sinopharm,,,,N/A,Sources,5/4/2020,
+,25,Vaccine,Inactivated virus,Inactivated,Pre-clinical,,,Osaka University / BIKEN / NIBIOHN,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Inactivated virus,"VLA2001, Inactivated + CpG 1018
+",Pre-clinical,,,Valneva/ Dynavax,,,Same platform as vaccine candidates for Japanese Encephalitis,N/A,Sources,5/12/2020,
+,26,Vaccine,Live attenuated virus,Codon deoptimized live attenuated virus,Pre-clinical,Animal data in summer 2020,,Codagenix / Serum Institute of India,,,"Same platform as vaccine candidates for HAV, InfA, ZIKV, FMD, SIV, RSV, DENV ",N/A,Sources,4/28/2020,
+,,Vaccine,Live attenuated virus,Codon deoptimized live attenuated virus,Pre-clinical,,,Indian Immunologicals Ltd/ Griffith University,,,,N/A,Sources,4/28/2020,
+,27,Vaccine,Live attenuated virus,"Live attenuated virus, measles virus (S, N targets)
+",Pre-clinical,,,DZIF - German Center for Infection Research,,,"Same platform as vaccine candidates for Zika, H7N9, CHIKV",N/A,Sources,5/12/2020,
+,28,Vaccine,Non-replicating viral vector,Non-replicating viral vector; MVA encoded VLP,Pre-clinical,,,GeoVax / BravoVax,,,"Same platform as vaccine candidates for LASV, EBOV, MARV, HIV",N/A,Sources,Prior to 4/20/2020,
+,29,Vaccine,Non-replicating viral vector,Non-replicating viral vector; Ad26 (alone or with MVA boost),Pre-clinical,Start Phase 1 in September 2020,,Janssen Pharmaceutical Companies/Beth Israel Deaconess Medical Center / Emergent BioSolutions/ Catalent,Biomedical Advanced Research and Development Authority (BARDA),,"Same platform as vaccine candidates for Ebola, HIV, RSV",N/A,Sources,4/30/2020,
+,30,Vaccine,Non-replicating viral vector,Non-replicating viral vector; replication defective simian adenovirus (GRAd) encoding SARS-CoV-2 S,Pre-clinical,Start Phase 1 in summer 2020,,ReiThera/ Leukocare/ Univercells,,,,N/A,Sources,5/4/2020,
+,31,Vaccine,Non-replicating viral vector,Non-replicating viral vector; Ad5,Pre-clinical,,,ImmunityBio / NantKwest,,,,N/A,Sources,Prior to 4/20/2020,
+,32,Vaccine,Non-replicating viral vector,Non-replicating viral vector; ChAdOx1,Clinical,"Phase 1/2 began April 2020, data expected in May 2020; Phase 2/3 trials expected to start by the middle of 2020*",NCT04324606,"Consortium of the Jenner Institute, Oxford Biomedica, University of Oxford, Vaccines Manufacturing and Innovation Centre, Pall Life Sciences, Cobra Biologics, HalixBV, Advent s.r.l., Merck KGaA, the Serum Institute, Vaccitech, and AstraZeneca",Coalition for Epidemic Preparedness (CEPI) / UK Government,,"Same platform as vaccine candidates for influenza, TB, Chikungunya, Zika, MenB, plague",N/A,Sources,5/8/2020,
+,33,Vaccine,Non-replicating viral vector,Non-replicating viral vector; MVA-S encoded,Pre-clinical,,,DZIF - German Center for Infection Research,,,Same platform as vaccine candidates for many pathogens,N/A,Sources,4/20/2020,
+,34,Vaccine,Non-replicating viral vector,"AdCOVID; single-dose, intranasal vaccine; non replicating viral vector; adenovirus-based NasoVAX expressing spike protein",Pre-clinical,Phase 1 trial to begin Q3 2020,,Altimmune / University of Alabama at Birmingham,,,Same platform as vaccine candidates for influenza,N/A,Sources,Prior to 4/20/2020,
+,35,Vaccine,Non-replicating viral vector,Non-replicating viral vector; Ad5 S (GREVAX™ platform),Pre-clinical,,,Greffex,,,"Same platform as vaccine candidates for MERS
+",N/A,Sources,Prior to 4/20/2020,
+,36,Vaccine,Non-replicating viral vector,Oral Ad5 S,Pre-clinical,,,Stabilitech Biopharma Ltd,,,,N/A,Sources,5/4/2020,
+,37,Vaccine,Non-replicating viral vector,Adenovirus-based + HLA-matched peptides (Pan-Corona),Pre-clinical,,,Valo Therapeutics Ltd,,,,N/A,Sources,5/4/2020,
+,38,Vaccine,Non-replicating viral vector,"Non-replicating viral vector; Oral Vaccine
+ platform",Pre-clinical,Phase 1 trial to begin in the second half of 2020,,Vaxart / Emergent BioSolutions,,,"Same platform as vaccine candidates for InfA, CHIKV, LASV, NORV, EBOV, RVF, HBV, VEE",N/A,Sources,Prior to 4/20/2020,
+,39,Vaccine,Non-replicating viral vector,"Non-replicating viral vector, MVA expressing structural proteins",Pre-clinical,,,"Centro Nacional Biotecnologia (CNB-CSIC), Spain",,,"Same platform as vaccine candidates for HIV, HCV, CHIKV, EBOV, Zika, Malaria, Leishmania",N/A,Sources,Prior to 4/20/2020,
+,40,Vaccine,Non-replicating viral vector,Non-replicating viral vector; dendritic cell-based vaccine,Pre-clinical,,,University of Manitoba,,,,N/A,Sources,4/20/2020,
+,41,Vaccine,Non-replicating viral vector,Non-replicating viral vector; parainfluenza virus 5 (PIV5)-based vaccine expressing the spike protein,Pre-clincial,,,University of Georgia/ University of Iowa,,,Same platform as vaccine candidates for MERS ,N/A,Sources,4/28/2020,
+,42,Vaccine,Non-replicating viral vector,Non-replicating viral vector; Adenovirus Type 5 vector (Ad5-nCoV),Clinical,Phase 2 started April 2020,"NCT04313127	
+
+ChiCTR2000030906
+
+ChiCTR2000031781 ",CanSino Biologics/Beijing Institute of Biotechnology,,,Same platform as vaccine candidates for EBOV  ,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Non-replicating viral vector,Recombinant deactivated rabies virus containing S1,Pre-clinical,,,Bharat Biotech/ Thomas Jefferson University,,,,N/A,Sources,5/4/2020,
+,43,Vaccine,Protein subunit,"Protein subunit, capsid-lide particle (CLP)",Pre-clinical,Phase 1 to begin by February 2021,,"PREVENT-nCoV consortium (AdaptVac, Institute for Tropical Medicine at University of Tubingen, Leiden University Medical Center, University of Copenhagen, ExpreS2ion Biotechnologies, Wageningen University)",European Commission (Horizon 2020 Program),,Same platform as vaccine candidates for HPV  ,N/A,Sources,Prior to 4/20/2020,
+,44,Vaccine,Protein subunit,"Protein subunit, drosophila S2 insect cell expression system VLPs",Pre-clinical,,,ExpreS2ion,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,Protein subunit; S protein,Pre-clinical,,,WRAIR / USAMRIID,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, S protein + adjuvant",Pre-clinical,,,"National Institute of Infectious Disease, Japan",,,Same platform as vaccine candidates for Influenza,N/A,Sources,Prior to 4/20/2020,
+,45,Vaccine,Protein subunit,"Protein subunit, VLP-recombinant protein + adjuvant",Pre-clinical,,,"Osaka University / BIKEN / National Institutes of Biomedical Innovation, Japan",,,,N/A,Sources,Prior to 4/20/2020,
+,46,Vaccine,Protein subunit,"Protein subunit, native like trimeric subunit spike protein",Pre-clinical,Phase 1 to start by mid-2020,,Clover Biopharmaceuticals Inc. / GSK / Dynavax,Coalition for Epidemic Preparedness (CEPI),,"Same platform as vaccine candidates for HIV, RSV, Influenza",N/A,Sources,5/12/2020,
+,47,Vaccine,Protein subunit,Protein subunit; peptide,Pre-clinical,,,Vaxil Bio,,,,N/A,Sources,Prior to 4/20/2020,
+,50,Vaccine,Protein subunit,Protein subunit; adjuvanted protein subunit (RBD),Pre-clinical,,,Biological E Ltd,,,,N/A,Sources,Prior to 4/20/2020,
+,48,Vaccine,Protein subunit,Protein subunit; S protein,Pre-clinical,,,AJ Vaccines,,,,N/A,Sources,Prior to 4/20/2020,
+,49,Vaccine,Protein subunit,Protein subunit; recombinant spike protein with Advax adjuvant,Pre-clinical,,,Vaxine Pty Ltd / Flinders University / Oracle,,,,N/A,Sources,4/28/2020,
+,51,Vaccine,Protein subunit,Protein subunit; Ii-Key peptide,Pre-clinical,,,Generex / EpiVax,,,"Same platform as vaccine candidates for HIV, SARS-CoV, Influenza",N/A,Sources,Prior to 4/20/2020,
+,52,Vaccine,Protein subunit,Protein subunit; S protein,Pre-clinical,,,EpiVax / University of Georgia,,,Same platform as vaccine candidates for Inf H7N9,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"PittCoVacc, Protein subunit, microneedle arrays S1 subunit",Pre-clinical,Phase 1 to start as early as June 2020,,University of Pittsburgh,,,Same platform as vaccine candidates for MERS,N/A,Sources,Prior to 4/20/2020,
+,53,Vaccine,Protein subunit,Protein subunit; S protein,Pre-clinical,Phase 1 to start as early as June 2020,,University of Cambridge / DIOSynVax,,,"Influenza, Ebola",N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,Protein subunit; COVID-19 XWG-03 truncated Spike proteins,Pre-clinical,,,Innovax / Xiamen University / GSK,,,"Same platform as vaccine candidates for HPV  
+",N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit; S protein, baculovirus production",Pre-clinical,"Phase 1/2 to start in September 2020
+",,Sanofi Pasteur / GSK,Biomedical Advanced Research and Development Authority (BARDA),,"Same platform as vaccine candidates for Influenza, SARS-CoV (FDA approved vaccine)",N/A,Sources,5/8/2020,
+,,Vaccine,Protein subunit,"Protein subunit; recombinant protein vaccine, utilizing baculovirus expression vector system technology",Pre-clincial,"Phase 1 to start by end of 2020
+",,UMN Pharma (Shionogi),Japan Agency for Medical Research and Development,,,N/A,Sources,5/10/2020,
+,54,Vaccine,Protein subunit,Protein subunit; NVX-CoV2373; Full length recombinant SARS COV-2 glycoprotein nanoparticle vaccine adjuvanted with Matrix M,Pre-clinical,Start Phase 1 in May 2020,,Novavax / Emergent BioSolutions,Coalition for Epidemic Preparedness (CEPI),,"Same platform as vaccine candidates for RSV, CCHF, HPV, VZV, EBOV",N/A,Sources,4/28/2020,
+,,Vaccine,Protein subunit,Protein subunit (gp-96 backbone),Pre-clinical,,,Heat Biologics (Zolovax) / University of Miami,,,"Same platform as vaccine candidates for cancer (NSCLC), HIV, malaria, Zika",N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,Protein subunit; molecular clamp stabilized Spike protein,Pre-clinical,,,University of Queensland / GSK / Dynavax,Coalition for Epidemic Preparedness (CEPI)/Queensland Government/Federal Government (Australia)/Paul Ramsay Foundation,,"Same platform as vaccine candidates for Nipah, influenza, Ebola, Lassa",N/A,Sources,Prior to 4/20/2020,
+,56,Vaccine,Protein subunit,Protein subunit; peptide vaccine,Pre-clinical,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,Same platform as vaccine candidates for Ebola,N/A,Sources,Prior to 4/20/2020,
+,57,Vaccine,Protein subunit,Protein subunit; subunit vaccine,Pre-clincial,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,,N/A,Sources,4/28/2020,
+,,Vaccine,Protein subunit,Protein subunit; S1 or RBD protein,Pre-clinical,,,Baylor College of Medicine,,,Same platform as vaccine candidates for SARS,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit; Subunit protein, plant produced",Pre-clinical,,,iBio / CC-Pharming,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, recombinant protein, nanoparticles (based on S-protein and other epitopes)",Pre-clinical,,,St. Petersburg Scientific Research Institute of Vaccines and Serums,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, adjuvanted microsphere peptide",Pre-clinical,Animal testing results expected in April 2020,,"VIDO-InterVac, University of Saskatchewan",The Government of Saskatchewan and the Canadian Federal Government,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, peptide",Pre-clinical,,,Flow Pharma,,,"Same platform as vaccine candidates for Ebola, Marburg, HIV, Zika, Influenza, HPV therapeutic vaccine, Breast Cancer ",N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, synthetic long peptide vaccine candidate for S and M proteins",Pre-clinical,,,OncoGen,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,Protein subunit; oral E. coli-based protein expression system of S and N proteins,Pre-clinical,,,MIGAL Galilee Research Institute,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, nanoparticle vaccine",Pre-clinical ,,,"LakePharma, Inc.",,,,,Sources,5/4/2020,
+,,Vaccine,Protein subunit,Protein subunit; spike based,Pre-clinical,,,University of Alberta,,,Same platform as vaccine candidates for Hepatitis C,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Protein subunit,"Protein subunit, recombinant S1-Fc fusion protein",Pre-clinical,,,AnyGo Technology,,,,N/A,Sources,5/4/2020,
+,64,Vaccine,Protein subunit,"Protein subunit, recombinant protein  ",Pre-clinical,,,Yisheng Biopharma,,,,N/A,Sources,5/4/2020,
+,65,Vaccine,Protein subunit,"Protein subunit, recombinant S protein in IC-BEVS  ",Pre-clinical,,,Vabiotech,,,,N/A,Sources,5/4/2020,
+,66,Vaccine,Protein subunit,"Protein subunit; DPX-COVID-19, protein subunit, peptide antigens formulated in LNP",Pre-clinical,Start Phase 1 testing by summer 2020,,"IMV, Inc. / Canadian Center for Vaccinology at Dalhousie University / Izaak Walton Killam Health Center/ Nova Scotia Health Authority; Canadian Immunization Research Network / University of Laval / Global Urgent and Advanced Research and Development in Canada",,,"Same platform as vaccine candidates for cancer and infectious diseases, including malaria and anthrax",N/A,Sources,4/28/2020,
+,67,Vaccine,Protein subunit,Protein subunit; plant virus nanotechnology formulated as injectable and microneedle patch,Pre-clinical,,,"University of California, San Diego",National Science Foundation (Rapid Response Research [RAPID] grant),,,N/A,Sources,4/28/2020,
+,,Vaccine,Protein subunit,OMV-based vaccine,Pre-clinical,,,Quadram Institute Biosciences,,,"Same platform as vaccine candidates for Flu A, plaque
+",N/A,Sources,5/12/2020,
+,,Vaccine,Protein subunit,OMV-based vaccine,Pre-clinical,,,BiOMVis Srl/ University of Trento,,,,N/A,Sources,5/12/2020,
+,68,Vaccine,Protein subunit,"Orally delivered, heat stable subunit",Pre-clinical,,,"Applied Biotechnology Institute, Inc.",,,,N/A,Sources,5/12/2020,
+,69,Vaccine,Protein subunit,S-2 P protein + CpG 1018,Pre-clinical,,,Medigen Vaccine Biologics Corp/ NIAID/ Dynavax,,,,N/A,Sources,5/12/2020,
+,70,Vaccine,Protein subunit,Peptides derived from Spike protein,Pre-clinical,,,Axon Neuroscience SE,,,,N/A,Sources,5/12/2020,
+,71,Vaccine,Replicating viral vector,Replicating viral vector; YF17D Vector,Pre-clinical,,,KU Leuven,,,,N/A,Sources,5/4/2020,
+,72,Vaccine,Replicating viral vector,Replicating viral vector; measles vector,Pre-clinical,,,Zydus Cadila,,,,N/A,Sources,Prior to 4/20/2020,
+,73,Vaccine,Replicating viral vector,Replicating viral vector; measles vector,Pre-clinical,Start animal testing in April 2020,,Institut Pasteur / Themis / University of Pittsburgh,Coalition for Epidemic Preparedness (CEPI),,"Same platform as vaccine candidates for West nile, CHIKV, Ebola, Lassa, Zika, MERS",N/A,Sources,Prior to 4/20/2020,
+,74,Vaccine,Replicating viral vector,Replicating viral vector; measles vector,Pre-clinical,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,,N/A,Sources,4/28/2020,
+,75,Vaccine,Replicating viral vector,Replicating viral vector; horsepox vector; TNX-1800,Pre-clinical,,,Tonix Pharma / Southern Research,,,"Same platform as vaccine candidates for smallpox, monkeypox",N/A,Sources,Prior to 4/20/2020,
+,76,Vaccine,Replicating viral vector,"Replicating viral vector, live viral vectored vaccine based on attenuated influenza virus backbone (intranasal)",Pre-clinical,,,BIOCAD / IEM,,,,N/A,Sources,Prior to 4/20/2020,
+,77,Vaccine,Replicating viral vector,"Replicating viral vector, recombinant vaccine based on Influenza A virus, for the prevention of COVID-19 (intranasal)",Pre-clincial,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,Same platform as vaccine candidates for influenza,N/A,Sources,4/28/2020,
+,,Vaccine,Replicating viral vector,"Replicating viral vector, replication-competent VSV chimeric virus technology (VSVdeltaG) delivering the SARS-CoV-2 Spike (S) glycoprotein",Pre-clinical,,,IAVI / Batavia,,,"Same platform as vaccine candidates for Ebola, Marburg, Lassa",N/A,Sources,4/28/2020,
+,78,Vaccine,Replicating viral vector,"Replicating viral vector, influenza vector expressing RBD",Pre-clinical,,,The University of Hong Kong,Coalition for Epidemic Preparedness (CEPI),,Same platform as vaccine candidates for MERS,N/A,Sources,Prior to 4/20/2020,
+,79,Vaccine,Replicating viral vector,Replicating viral vector; VSV-S,Pre-clinical,,,University of Western Ontario,,,"Same platform as vaccine candidates for HIV, MERS",N/A,Sources,Prior to 4/20/2020,
+,80,Vaccine,Replicating viral vector,Replicating viral vector; VSV vector,Pre-clinical,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,,N/A,Sources,4/28/2020,
+,81,Vaccine,Replicating viral vector,M2-deficient single replication (M2SR) influenza vector,Pre-clinical,Start Phase 1 trial in fall 2020,,University of Wisconsin-Madison / FluGen/ Bharat Biotech,,,Same platform as vaccine candidates for influenza,N/A,Sources,5/4/2020,
+,,Vaccine,RNA-based vaccine,RNA; LNP-encapsulated mRNA cocktail encoding VLP,Pre-clinical,,,Fudan University / Shanghai JiaoTong University / RNACure Biopharma,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,RNA-based vaccine,RNA; LNP-encapsulated mRNA cocktail encoding RBD,Pre-clinical,,,Fudan University / Shanghai JiaoTong University / RNACure Biopharma,,,,N/A,Sources,Prior to 4/20/2020,
+,55,Vaccine,RNA-based vaccine,RNA; Replicating defective SARS-CoV-2 derived RNAs,Pre-clinical,,,"Centro Nacional Biotecnologia (CNB-CSIC), Spain",,,,N/A,Sources,Prior to 4/20/2020,
+,82,Vaccine,RNA-based vaccine,RNA; LNP-encapsulated mRNA,Pre-clinical,,,University of Tokyo / Daiichi-Sankyo,,,Same platform as vaccine candidates for MERS,N/A,Sources,Prior to 4/20/2020,
+,83,Vaccine,RNA-based vaccine,RNA; several mRNA candidates,Pre-clinical,,,"RNAimmune, Inc.",,,,N/A,Sources,5/4/2020,
+,84,Vaccine,RNA-based vaccine,RNA; mRNA,Pre-clincial,,,"FBRI SRC VB VECTOR, Rospotrebnadzor, Koltsovo",,,,N/A,Sources,4/28/2020,
+,85,Vaccine,RNA-based vaccine,RNA; mRNA,Pre-clinical,,,China CDC / Tongji University / Stermina,,,,N/A,Sources,Prior to 4/20/2020,
+,86,Vaccine,RNA-based vaccine,RNA; LNP-encapsulated mRNA (mRNA 1273),Clinical,"Phase 1 ongoing; Phase 2 to start May 2020; Phase 3 to start early summer 2020
+",NCT04283461,Moderna/NIAID/Lonza,Coalition for Epidemic Preparedness (CEPI)/ Biomedical Advanced Research and Development Authority (BARDA),,Same platform as vaccine candidates for multiple candidates,N/A,Sources,5/8/2020,
+,87,Vaccine,RNA-based vaccine,LUNAR-COV19; RNA; mRNA,Pre-clinical,Start Phase 1 in summer 2020,,"Arcturus/Duke-NUS/ Catalent
+",,,Same platform as vaccine candidates for multiple candidates,N/A,Sources,5/5/2020,
+,88,Vaccine,RNA-based vaccine,RNA; saRNA,Pre-clinical,Start Phase 1 in summer 2020,,Imperial College London,UK Government,,"Same platform as vaccine candidates for EBOV, LASV, MARV, Inf (H7N9), RABV",N/A,Sources,4/23/2020,
+,89,Vaccine,RNA-based vaccine,RNA; mRNA,Pre-clinical,Start Phase 1 in June 2020,,CureVac,Coalition for Epidemic Preparedness (CEPI); European Commission,,"Same platform as vaccine candidates for RABV, LASV, YFV, MERS, InfA, ZIKV, DengV, NIPV",N/A,Sources,Prior to 4/20/2020,
+,90,Vaccine,RNA-based vaccine,RNA; mRNA; BNT162,Clinical,Phase 1/2 started April 2020,EudraCT 2020-001038-36,BioNTech / Fosun Pharma / Pfizer,,,,N/A,Sources,5/8/2020,
+,91,Vaccine,RNA-based vaccine,RNA; liposome-encapsulated mRNA,Pre-clinical,Animal studies begin in April 2020,,BIOCAD,,,Same platform as vaccine candidates for cancer   ,N/A,Sources,Prior to 4/20/2020,
+,92,Vaccine,RNA-based vaccine,"LNP-mRNA
+",Pre-clinical,,,Sanofi Pasteur / Translate Bio,,,,N/A,Sources,5/12/2020,
+,93,Vaccine,RNA-based vaccine,RNA; mRNA in an intranasal delivery system (cross-strain protective COV-2 mRNA) vaccine for high-risk populations,Pre-clinical,Start Phase 1 early 2021,,eTheRNA Immunotherapies / EpiVax/ Nexelis/ REPROCELL / Centre for the Evaluation of Vaccination of the University of Antwerp,,,,N/A,Sources,5/4/2020,
+,94,Vaccine,RNA-based vaccine,RNA,Pre-clinical,,,GeneOne Life Science / Houston Methodist,,,,N/A,Sources,Prior to 4/20/2020,
+,95,Vaccine,RNA-based vaccine,"RNA; ZIP-1642, vaccine consists of a combination of mRNA molecules, encoding multiple SARS-CoV-2 antigens",Pre-clincial,,,Ziphius Therapeutics/ Ghent University,,,,N/A,Sources,4/28/2020,
+,96,Vaccine,RNA-based vaccine,"mRNA
+",Pre-clinical,,,"Greenlight Biosciences
+",,,,N/A,Sources,5/12/2020,
+,,Vaccine,Virus-like particle,"VLP; virus-like particle, based on RBD displayed on virus-like particle",Pre-clinical,,,Saiba GmbH,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Virus-like particle,VLP; plant-derived VLP,Pre-clinical,Start Phase 1 in July / August 2020,,Medicago Inc.,,,"Same platform as vaccine candidates for flu, rotavirus, norovirus, West Nile virus, and cancer",N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Virus-like particle,VLP; ADDomerTM multiepitope display,Pre-clinical,,,Imophoron Ltd / Bristol University's Max Planck Centre,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Virus-like particle,VLP,Pre-clinical,,,Doherty Institute,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Virus-like particle,VLP (COVID-19 and SARS1),Pre-clincial,,,OSIVAX,,,,N/A,Sources,5/4/2020,
+,,Vaccine,Virus-like particle,VLP; eVLP,Pre-clinical,,,"ARTES Biotechnology
+",,,"Same platform as vaccine candidates for malaria
+",N/A,Sources,5/4/2020,
+,,Vaccine,Virus-like particle,"Enveloped virus-like particle (eVLP): Pan-coronavirus vaccine candidate, targeting COVID-19, SARS, and MERS, spike protein",Pre-clinical,Start Phase 1 testing by end of 2020,,VBI Vaccines / National Research Council of Canada,,,"Same platform as vaccine candidates for glioblastoma, cytomegalovirus, and Zika",N/A,Sources,4/28/2020,
+,,Vaccine,Unknown,"Gene-encoded antibody vaccine, non-viral nanoparticle delivery",Pre-clinical,,,SmartPharm Therapeutics / Sorrento Therapeutics,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,"Self-assembling vaccine (fusion protein of a heat shock protein and Avidin, with biotinylated immunogenic peptides)",Pre-clinical,Animal study results by October 2020,,HaloVax (Voltron Therapeutics) / The Vaccine & Immunotherapy Center at the Massachusetts General Hospital,Analog Devices Foundation,,,N/A,Sources,4/21/2020,
+,,Vaccine,Unknown,LV-SMENP-DC Dendritic cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins; administered with antigen-specific cytotoxic T lymphocytes,Pre-clinical,,NCT04276896,Shenzhen Geno-Immune Medical Institute,,,,N/A,Sources,5/12/2020,
+,,Vaccine,Unknown,Artificial antigen-presenting cells modified with lentiviral vector expressing synthetic minigene based on domains of selected viral proteins,Pre-clinical,,NCT04299724,Shenzhen Geno-Immune Medical Institute,,,,N/A,Sources,5/12/2020,
+,,Vaccine,Unknown,ISR-50,Pre-clinical,"Animal study results expected in Q2 2020, Phase 1 begins Q4 2020",,ISR Immune System Regulation,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,ImmunoPrecise,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,Tulane University,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,Phase 1 begins as early as September 2020,,SK Biosciences,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,Vir Biotechnology / GSK,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,Precision Vaccines Program at Boston Children's Hospital,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,"Unknown, tobacco plant technology",Pre-clinical,,,Kentucky BioProcessing (British American Tobacco),,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,Universite Laval,,,,N/A,Sources,Prior to 4/20/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,Phase 1 to start in summer 2020,,Covaxx,,,,N/A,Sources,4/21/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,"Catholic University/ Millennium Institute of Immunology and Immunotherapy/ Technological Consortium in Clinical Molecular Biomedicine, Chile",,,,N/A,Sources,4/23/2020,
+,,Vaccine,Unknown,Unknown,Pre-clinical,,,Emergex Vaccines/ George Mason University's National Center for Biodefense and Infectious Diseases (NCBID),,,,N/A,Sources,4/24/2020,
+,,Vaccine,Unknown,"TerraCoV2
+",Pre-clinical,Start Phase 1 in late 2020 or early 2021,,"Oragenics
+",,,,N/A,Sources,5/10/2020,
+,,Vaccine,"Replicating bacterial vector
+",Recombinant LVS ΔcapB – vectored vaccine expressing multiple SARS-CoV-2 antigens,Pre-clinical,,,"University of California, Los Angeles (Horwitz Lab)",,,Same platform as vaccines against select agents and emerging pathogens,N/A,Sources,5/10/2020,
